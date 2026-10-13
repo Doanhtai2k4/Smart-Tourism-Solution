@@ -1,0 +1,52 @@
+workflows:
+  ios-workflow:
+    name: iOS Release Unsigned
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+      groups:
+        - env_vars
+    scripts:
+      - name: Disable Swift Package Manager (Force CocoaPods)
+        script: |
+          flutter config --no-enable-swift-package-manager
+      - name: Setup environment files
+        script: |
+          # Write .env file
+          if [ -n "$ENV_FILE" ]; then
+            echo "$ENV_FILE" > .env
+            echo "✅ .env created successfully"
+          else
+            touch .env
+            echo "⚠️ ENV_FILE variable not found, created empty .env"
+          fi
+
+          # Write GoogleService-Info.plist
+          if [ -n "$GOOGLE_SERVICE_INFO_PLIST" ]; then
+            echo "$GOOGLE_SERVICE_INFO_PLIST" > ios/Runner/GoogleService-Info.plist
+            echo "✅ GoogleService-Info.plist created successfully"
+          else
+            echo "⚠️ GOOGLE_SERVICE_INFO_PLIST variable not found"
+          fi
+      - name: Install dependencies & run build_runner
+        script: |
+          flutter pub get
+          dart run build_runner build --delete-conflicting-outputs
+      - name: Build iOS App
+        script: |
+          flutter build ios --release --no-codesign > build_output.log 2>&1 || {
+            echo "❌ Xcode Build Failed. Printing compilation error details:"
+            grep -i -C 4 "error" build_output.log || tail -n 150 build_output.log
+            exit 1
+          }
+      - name: Package IPA
+        script: |
+          mkdir -p Payload
+          mv build/ios/iphoneos/Runner.app Payload/
+          zip -r Runner.ipa Payload
+          echo "🎉 Packaged Runner.ipa successfully!"
+    artifacts:
+      - Runner.ipa

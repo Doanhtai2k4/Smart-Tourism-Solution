@@ -1,0 +1,8 @@
+{
+  "last_retrain_at": "2026-09-23T14:43:53.644638",
+  "n_interactions": 174,
+  "final_loss": 818.991211,
+  "epochs": 15,
+  "learning_rate": 0.1,
+  "lookback_days": 30
+}

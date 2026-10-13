@@ -1,0 +1,38 @@
+# Set platform to iOS 15.0
+platform :ios, '15.0'
+
+# CocoaPods parallel code signing
+COCOAPODS_PARALLEL_CODE_SIGN_ENABLED = true
+
+# Flutter integration
+flutter_ios_podfile_setup = File.join(File.dirname(__FILE__), 'Flutter', 'podhelper.rb')
+require flutter_ios_podfile_setup
+
+target 'Runner' do
+  use_frameworks!
+  use_modular_headers!
+
+  # Pin SDWebImage to avoid the corrupted 5.21.7 tag in Git
+  pod 'SDWebImage', '~> 5.20.0'
+
+  flutter_install_all_ios_pods File.dirname(__FILE__)
+end
+
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    flutter_additional_ios_build_settings(target)
+    
+    target.build_configurations.each do |config|
+      # Force iOS 15.0 for all Pod targets to ensure compatibility with Xcode 16 / iOS 18 SDK
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '15.0'
+      
+      # Bypass signing for secondary cocoapods targets on CI
+      config.build_settings['CODE_SIGNING_ALLOWED'] = 'NO'
+      config.build_settings['CODE_SIGNING_REQUIRED'] = 'NO'
+
+      # Force Swift 5.0 to avoid Swift 6 strict concurrency compilation errors in older pods
+      config.build_settings['SWIFT_VERSION'] = '5.0'
+    end
+  end
+end

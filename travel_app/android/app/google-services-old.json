@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "774420429772",
+    "firebase_url": "https://plan-ai-z-default-rtdb.firebaseio.com",
+    "project_id": "plan-ai-z",
+    "storage_bucket": "plan-ai-z.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774420429772:android:1197e9d39aa9496faefb69",
+        "android_client_info": {
+          "package_name": "com.example.triptide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774420429772-h8senn9p332obtacf49j9qm3dmjvuo8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.triptide",
+            "certificate_hash": "09983d82c4243bbcc4793253c5b017d7f4611892"
+          }
+        },
+        {
+          "client_id": "774420429772-l61339qbcf1slglap9pmogtma2doumk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuzB08Kknhc97TDe79FQBG0Qtc0hxx7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774420429772-l61339qbcf1slglap9pmogtma2doumk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774420429772-0vp8mheeehmu8aa49rhr6h9e3sohgk29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.planTravel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774420429772:android:620d8dcd845a35f8aefb69",
+        "android_client_info": {
+          "package_name": "com.hoadev.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774420429772-8gdfm39kq94thr65erkbqt2vt0h5eakq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoadev.travel_app",
+            "certificate_hash": "09983d82c4243bbcc4793253c5b017d7f4611892"
+          }
+        },
+        {
+          "client_id": "774420429772-l61339qbcf1slglap9pmogtma2doumk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuzB08Kknhc97TDe79FQBG0Qtc0hxx7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774420429772-l61339qbcf1slglap9pmogtma2doumk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774420429772-0vp8mheeehmu8aa49rhr6h9e3sohgk29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.planTravel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

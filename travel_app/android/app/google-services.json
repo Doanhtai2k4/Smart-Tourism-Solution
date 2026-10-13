@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423897069488",
+    "firebase_url": "https://anhtai-3c883-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anhtai-3c883",
+    "storage_bucket": "anhtai-3c883.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423897069488:android:e8a7a9c467d68206ca4875",
+        "android_client_info": {
+          "package_name": "com.taidev.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423897069488-2an95hhqfr49uo06g86nrsqlcgm2c4u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taidev.travel_app",
+            "certificate_hash": "750739695aaf32a21ef5329480988f2fe5f894fb"
+          }
+        },
+        {
+          "client_id": "423897069488-9nbmodh0ns5j7m9pqeasj3cfroalgkss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePryN1dRqTtdyFoIEivrqs0-i6qWPm3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423897069488-9nbmodh0ns5j7m9pqeasj3cfroalgkss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

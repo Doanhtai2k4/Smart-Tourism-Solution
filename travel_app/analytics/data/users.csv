@@ -1,0 +1,1001 @@
+user_id,name,age,gender,nationality,registration_date,preferred_travel_style,budget_range,average_trip_duration,is_active
+U0001,Hoang Thu Cuc,36,Female,Viet Nam,2025-08-11 23:06:00,Family,High,6,True
+U0002,Pham Anh Hai,30,Male,Viet Nam,2026-04-05 00:35:00,Luxury,High,7,True
+U0003,Duong Van Phong,38,Male,Viet Nam,2025-08-21 22:27:00,Adventure,Low,8,False
+U0004,Tran Huu Bao,47,Male,Viet Nam,2025-11-24 19:16:00,Backpacking,Low,13,True
+U0005,Hoang Nhu Thao,29,Female,Viet Nam,2025-12-03 18:12:00,Family,Medium,3,True
+U0006,Jean Brown,29,Other,Japan,2025-12-12 08:29:00,Family,High,3,True
+U0007,Ly Duy Huy,47,Male,Viet Nam,2025-07-07 19:40:00,Luxury,High,4,True
+U0008,Kenji Bernard,39,Male,Australia,2025-09-21 21:20:00,Backpacking,Low,5,False
+U0009,Ly Cong Tung,27,Male,Viet Nam,2025-11-09 06:41:00,Culture/Historical,Medium,5,True
+U0010,Dang Tuan Tung,37,Male,Viet Nam,2026-03-27 13:57:00,Relaxation,Medium,4,False
+U0011,Ngo Van Bao,27,Male,Viet Nam,2025-07-27 04:40:00,Luxury,High,6,True
+U0012,Vo Thanh Nam,27,Male,Viet Nam,2026-03-11 00:43:00,Family,Medium,6,True
+U0013,Hoang Truc Mai,34,Female,Viet Nam,2026-01-19 00:46:00,Family,Medium,6,True
+U0014,Do Phuong Quynh,18,Female,Viet Nam,2026-04-24 16:38:00,Luxury,High,4,True
+U0015,Nguyen Cat Trang,18,Female,Viet Nam,2026-02-06 00:07:00,Adventure,High,9,True
+U0016,Tran Duc Tung,26,Male,Viet Nam,2026-02-04 02:48:00,Relaxation,High,4,True
+U0017,Dang Cat Linh,21,Female,Viet Nam,2025-09-17 17:48:00,Family,Medium,4,True
+U0018,Ly Anh Huong,35,Female,Viet Nam,2025-08-01 07:14:00,Backpacking,Low,14,True
+U0019,Ho Nhu Hoa,22,Female,Viet Nam,2025-09-26 02:57:00,Backpacking,Medium,6,True
+U0020,Dang Minh Tung,18,Male,Viet Nam,2026-03-20 18:30:00,Luxury,High,6,True
+U0021,Vu Quoc Son,46,Male,Viet Nam,2025-06-28 21:41:00,Family,Medium,5,True
+U0022,Pham Thu Anh,29,Female,Viet Nam,2026-01-16 04:27:00,Luxury,High,4,False
+U0023,Jean Bernard,32,Male,USA,2025-07-21 01:41:00,Relaxation,High,3,False
+U0024,Vo Khanh Cuc,18,Female,Viet Nam,2025-12-23 01:10:00,Culture/Historical,Low,5,True
+U0025,Vu My Yen,26,Female,Viet Nam,2026-03-12 21:45:00,Culture/Historical,Low,4,True
+U0026,Nguyen Hai Khanh,33,Male,Viet Nam,2025-06-30 01:37:00,Culture/Historical,Medium,6,True
+U0027,Le Hong Thao,20,Other,Viet Nam,2025-07-05 21:55:00,Luxury,High,7,True
+U0028,Vu Nhu Thao,35,Female,Viet Nam,2026-03-17 16:20:00,Adventure,Low,10,True
+U0029,Hoang Xuan Khanh,25,Male,Viet Nam,2025-07-08 00:29:00,Relaxation,High,3,True
+U0030,Ly Huu Cuong,29,Male,Viet Nam,2025-10-04 11:18:00,Luxury,High,7,True
+U0031,Kenji Martin,25,Female,Australia,2025-06-05 21:52:00,Relaxation,Medium,3,False
+U0032,Tran Hai Hai,50,Male,Viet Nam,2025-08-19 08:18:00,Relaxation,Medium,5,True
+U0033,Vo Phuong Quynh,31,Female,Viet Nam,2025-06-27 02:40:00,Culture/Historical,High,2,True
+U0034,Hoang Ngoc Yen,21,Female,Viet Nam,2026-01-13 17:45:00,Culture/Historical,Medium,2,True
+U0035,Jessica Johnson,40,Female,South Korea,2025-12-07 18:35:00,Luxury,High,3,True
+U0036,Jean Johnson,19,Female,USA,2025-12-01 06:43:00,Luxury,High,5,False
+U0037,Bui My Mai,34,Female,Viet Nam,2025-09-30 05:51:00,Luxury,High,3,True
+U0038,Linda Davis,18,Female,USA,2025-10-15 05:50:00,Family,Medium,2,False
+U0039,Elizabeth Suzuki,18,Male,France,2025-11-04 07:14:00,Backpacking,Low,11,True
+U0040,Thomas Suzuki,33,Female,Australia,2026-04-25 16:25:00,Family,High,6,True
+U0041,Thomas Garcia,39,Male,Japan,2026-03-25 08:02:00,Backpacking,Low,10,True
+U0042,Dang Duc Trung,33,Male,Viet Nam,2026-03-23 06:16:00,Backpacking,Low,5,True
+U0043,Ho My Ha,30,Female,Viet Nam,2025-09-09 11:27:00,Backpacking,Medium,10,True
+U0044,Ly Phuong Anh,28,Female,Viet Nam,2025-11-06 21:26:00,Adventure,Medium,9,True
+U0045,Vu Duy Tung,18,Male,Viet Nam,2025-08-29 19:36:00,Adventure,Medium,5,True
+U0046,Karen Sato,24,Male,USA,2026-01-25 14:28:00,Family,Medium,5,False
+U0047,Do Hong Vy,27,Female,Viet Nam,2026-02-19 21:40:00,Relaxation,Medium,4,True
+U0048,Nguyen Van Dung,42,Male,Viet Nam,2026-01-30 19:54:00,Backpacking,Low,14,True
+U0049,Pham Ngoc Ha,35,Female,Viet Nam,2026-05-19 00:57:00,Backpacking,Medium,8,True
+U0050,Nguyen Anh Cuc,18,Female,Viet Nam,2025-08-02 14:08:00,Culture/Historical,Medium,6,True
+U0051,Karen Martin,35,Female,Japan,2026-01-05 17:28:00,Luxury,High,6,True
+U0052,Thomas Martin,28,Female,France,2026-02-04 20:15:00,Adventure,Medium,9,True
+U0053,Robert Jones,25,Male,Japan,2025-08-17 07:24:00,Family,Medium,3,True
+U0054,Vu Van Dung,38,Male,Viet Nam,2026-01-02 12:57:00,Relaxation,High,3,False
+U0055,Nguyen Minh Vy,42,Female,Viet Nam,2025-12-17 13:34:00,Family,High,6,False
+U0056,Vo Thi Linh,41,Female,Viet Nam,2025-11-20 21:43:00,Culture/Historical,Medium,5,False
+U0057,Ly Truc Thao,23,Other,Viet Nam,2026-03-16 21:01:00,Backpacking,Low,7,False
+U0058,Phan Anh Son,28,Male,Viet Nam,2025-11-15 10:48:00,Culture/Historical,Medium,5,True
+U0059,Dang Van Khanh,35,Male,Viet Nam,2025-09-23 20:04:00,Family,Low,2,False
+U0060,Le Anh Tuan,41,Male,Viet Nam,2026-01-29 21:07:00,Relaxation,High,6,True
+U0061,Bui My Yen,27,Female,Viet Nam,2025-07-29 05:19:00,Backpacking,Low,9,True
+U0062,Ho Thu Lan,30,Female,Viet Nam,2026-03-31 22:53:00,Family,Medium,4,False
+U0063,Bui Thi Trang,20,Female,Viet Nam,2026-02-28 13:42:00,Adventure,Low,10,True
+U0064,Vu Huu Huy,20,Male,Viet Nam,2026-01-22 22:09:00,Culture/Historical,Low,6,False
+U0065,Jessica Park,40,Male,USA,2026-01-25 13:52:00,Family,Medium,4,False
+U0066,Ly Khanh Cuc,45,Female,Viet Nam,2026-01-24 18:39:00,Family,Medium,2,True
+U0067,Phan Tuan Khanh,31,Male,Viet Nam,2025-10-22 19:44:00,Adventure,Medium,13,False
+U0068,Vo Thanh Phong,42,Male,Viet Nam,2025-10-02 22:30:00,Family,High,5,False
+U0069,Ho Anh Nam,35,Male,Viet Nam,2026-05-06 18:23:00,Culture/Historical,Medium,4,True
+U0070,Ho Khanh Vy,25,Female,Viet Nam,2025-11-04 08:14:00,Backpacking,Low,10,True
+U0071,David Miller,35,Female,USA,2025-09-19 23:30:00,Adventure,Medium,13,True
+U0072,Charles Davis,47,Other,France,2025-12-02 05:19:00,Backpacking,Low,7,True
+U0073,Ho Ngoc Ha,31,Other,Viet Nam,2026-02-07 03:55:00,Backpacking,Low,12,True
+U0074,Thomas Park,47,Male,Australia,2025-07-29 02:25:00,Culture/Historical,Low,2,True
+U0075,Robert Davis,18,Female,South Korea,2025-07-31 17:48:00,Culture/Historical,Medium,6,True
+U0076,Vo Phuong Quynh,40,Female,Viet Nam,2026-03-29 13:19:00,Relaxation,High,7,False
+U0077,Kenji Miller,32,Male,USA,2025-10-14 21:05:00,Luxury,High,7,True
+U0078,Bui Xuan Nam,29,Male,Viet Nam,2025-06-17 07:18:00,Family,Medium,5,True
+U0079,Ngo Duy Lam,32,Male,Viet Nam,2026-05-05 06:27:00,Backpacking,Low,7,False
+U0080,Le Phuong Thao,18,Female,Viet Nam,2026-03-19 09:28:00,Backpacking,Low,9,True
+U0081,Vo Khanh Lan,29,Female,Viet Nam,2026-04-03 01:56:00,Culture/Historical,Medium,6,True
+U0082,Pierre Dubois,35,Male,Australia,2026-03-28 00:48:00,Family,High,6,True
+U0083,Do Khanh Vy,46,Female,Viet Nam,2025-09-01 18:27:00,Family,High,2,True
+U0084,Tran Minh Khanh,26,Male,Viet Nam,2025-12-28 22:31:00,Adventure,Medium,11,False
+U0085,Phan Phuong Trang,23,Female,Viet Nam,2025-07-30 12:55:00,Relaxation,High,3,True
+U0086,Pham Anh Trang,26,Female,Viet Nam,2026-04-15 15:40:00,Culture/Historical,Medium,3,True
+U0087,Ly Hai Son,41,Male,Viet Nam,2025-08-02 00:40:00,Relaxation,High,4,True
+U0088,Pham Duc Son,35,Male,Viet Nam,2025-07-31 20:53:00,Luxury,High,5,True
+U0089,Barbara Davis,26,Male,France,2026-01-20 17:09:00,Culture/Historical,Low,6,True
+U0090,Thomas Kim,37,Female,Japan,2025-11-22 16:17:00,Backpacking,Low,9,False
+U0091,Duong Ngoc Huong,32,Female,Viet Nam,2026-03-03 15:22:00,Adventure,Medium,13,True
+U0092,Yuki Davis,41,Female,Japan,2026-03-20 12:14:00,Culture/Historical,Low,5,True
+U0093,Do Nhu Mai,24,Female,Viet Nam,2026-02-09 01:08:00,Relaxation,High,5,False
+U0094,Dang Khanh Hoa,28,Female,Viet Nam,2025-08-13 13:55:00,Family,High,2,True
+U0095,Ho Truc Ha,28,Other,Viet Nam,2025-07-12 10:54:00,Family,High,5,False
+U0096,Barbara Bernard,18,Female,Japan,2025-06-19 19:04:00,Luxury,High,5,False
+U0097,Tran Nhu Yen,34,Female,Viet Nam,2025-07-22 14:10:00,Family,Medium,2,True
+U0098,Phan Truc Mai,34,Female,Viet Nam,2025-10-04 16:26:00,Relaxation,High,4,True
+U0099,Karen Davis,32,Male,Japan,2026-02-10 18:09:00,Luxury,High,5,True
+U0100,Elizabeth Martinez,29,Female,Japan,2026-05-13 17:10:00,Backpacking,Low,10,False
+U0101,Yuki Rodriguez,18,Male,Australia,2026-01-20 09:12:00,Culture/Historical,High,2,True
+U0102,Ho Phuong Hoa,27,Female,Viet Nam,2026-05-04 12:17:00,Backpacking,Low,5,False
+U0103,Charlotte Martinez,28,Female,France,2025-09-26 19:51:00,Adventure,Low,8,True
+U0104,Do Nhu Quynh,23,Female,Viet Nam,2025-08-10 20:06:00,Family,Medium,4,False
+U0105,Le Duc Nam,30,Male,Viet Nam,2025-11-15 23:26:00,Luxury,High,7,False
+U0106,Hoang Minh Nam,36,Male,Viet Nam,2026-02-02 09:47:00,Adventure,Medium,12,False
+U0107,Jean Takahashi,50,Male,Australia,2026-03-13 11:05:00,Culture/Historical,Low,6,True
+U0108,Hoang Cong Trung,33,Male,Viet Nam,2026-04-23 11:06:00,Family,Medium,2,True
+U0109,Bui Thu Ha,34,Female,Viet Nam,2025-07-03 20:52:00,Culture/Historical,High,4,True
+U0110,Nguyen Tuan Son,31,Male,Viet Nam,2025-07-30 03:15:00,Relaxation,Medium,6,True
+U0111,Dang Truc Thao,18,Female,Viet Nam,2025-08-19 13:41:00,Backpacking,Medium,14,True
+U0112,Phan Thu Huong,31,Female,Viet Nam,2026-01-14 07:54:00,Adventure,Low,10,True
+U0113,Vu Phuong Cuc,32,Other,Viet Nam,2025-08-02 14:05:00,Family,Medium,6,False
+U0114,Le Cong Dung,56,Male,Viet Nam,2025-07-06 17:13:00,Relaxation,Medium,4,True
+U0115,James Rodriguez,30,Male,South Korea,2025-08-14 04:34:00,Adventure,Medium,6,True
+U0116,Ngo Anh Lam,35,Male,Viet Nam,2025-11-13 00:11:00,Adventure,Low,11,True
+U0117,Ngo Minh Anh,31,Female,Viet Nam,2026-03-31 03:28:00,Relaxation,Medium,7,True
+U0118,Susan Martinez,20,Female,Japan,2026-01-21 20:01:00,Backpacking,High,11,True
+U0119,Vo Duc Cuong,43,Male,Viet Nam,2025-11-12 19:09:00,Backpacking,Low,14,True
+U0120,Bui Anh Vy,39,Female,Viet Nam,2026-01-19 16:38:00,Culture/Historical,Low,2,False
+U0121,Min-ji Miller,39,Female,USA,2026-01-07 14:56:00,Luxury,High,6,True
+U0122,Phan Nhu Vy,22,Female,Viet Nam,2025-12-09 04:43:00,Culture/Historical,Low,2,True
+U0123,Ngo Minh Hai,46,Male,Viet Nam,2025-07-01 18:35:00,Relaxation,Medium,3,True
+U0124,Linda Johnson,18,Female,South Korea,2025-10-26 19:19:00,Adventure,Low,13,True
+U0125,Tran Minh Quynh,37,Female,Viet Nam,2026-03-12 11:07:00,Adventure,Medium,11,False
+U0126,Karen Bernard,53,Other,France,2025-06-14 19:59:00,Family,High,4,True
+U0127,Sophie Sato,22,Male,USA,2025-11-27 00:11:00,Luxury,High,6,True
+U0128,Robert Martin,26,Female,Australia,2025-09-19 12:26:00,Culture/Historical,Medium,4,True
+U0129,Karen Williams,32,Male,South Korea,2025-06-27 04:10:00,Relaxation,Low,3,True
+U0130,Vo Truc Vy,26,Female,Viet Nam,2025-09-19 16:07:00,Adventure,Medium,9,True
+U0131,Hoang Thi Cuc,18,Female,Viet Nam,2025-12-20 19:03:00,Backpacking,Low,8,True
+U0132,Tran Thi Huong,32,Female,Viet Nam,2026-01-07 05:08:00,Culture/Historical,Medium,3,True
+U0133,Robert Takahashi,21,Female,USA,2025-06-22 13:01:00,Culture/Historical,High,4,True
+U0134,Vu Phuong Lan,36,Female,Viet Nam,2025-12-25 00:20:00,Luxury,High,7,True
+U0135,Vu Hong Cuc,22,Female,Viet Nam,2026-01-10 18:25:00,Relaxation,Low,5,True
+U0136,Robert Martin,47,Male,USA,2026-04-21 03:33:00,Relaxation,Medium,5,True
+U0137,Le Thu Lan,24,Female,Viet Nam,2025-08-14 08:12:00,Luxury,High,3,True
+U0138,Ngo Cat Chi,28,Female,Viet Nam,2026-03-24 14:43:00,Relaxation,High,7,True
+U0139,Vo Hong Huong,40,Other,Viet Nam,2026-01-13 20:19:00,Adventure,Medium,10,True
+U0140,Nguyen Huu Bao,19,Male,Viet Nam,2025-10-25 02:41:00,Backpacking,Low,13,True
+U0141,Min-ji Johnson,34,Female,South Korea,2026-01-17 18:41:00,Luxury,High,6,True
+U0142,Ngo Minh Yen,45,Female,Viet Nam,2025-07-14 16:41:00,Luxury,Medium,6,False
+U0143,Phan Minh Vy,18,Female,Viet Nam,2025-12-16 13:49:00,Adventure,Medium,5,False
+U0144,Tran Anh Ha,33,Female,Viet Nam,2025-12-15 09:16:00,Family,High,6,False
+U0145,Le Huu Nam,34,Male,Viet Nam,2026-05-02 22:42:00,Culture/Historical,Low,2,True
+U0146,Pierre Jones,39,Male,USA,2026-05-10 22:53:00,Family,High,6,True
+U0147,Nguyen Minh Vy,19,Female,Viet Nam,2025-09-01 06:21:00,Culture/Historical,Low,3,True
+U0148,Susan Bernard,18,Male,USA,2026-02-25 01:42:00,Adventure,High,14,True
+U0149,Duong Hai Phong,37,Male,Viet Nam,2026-04-16 05:46:00,Culture/Historical,Low,4,True
+U0150,Hoang Hai Phong,34,Male,Viet Nam,2026-01-16 07:34:00,Luxury,High,6,False
+U0151,Bui Xuan Son,34,Male,Viet Nam,2025-10-23 12:32:00,Relaxation,Medium,4,False
+U0152,Hoang Thi Ha,35,Female,Viet Nam,2026-02-02 11:35:00,Backpacking,Low,13,False
+U0153,Thomas Lee,25,Male,USA,2026-02-18 04:53:00,Culture/Historical,Low,3,False
+U0154,Linda Johnson,34,Female,South Korea,2025-12-20 16:23:00,Luxury,High,3,True
+U0155,Pierre Sato,34,Male,South Korea,2025-08-14 04:02:00,Adventure,High,12,True
+U0156,Vo Cong Hung,24,Male,Viet Nam,2025-07-11 00:16:00,Luxury,High,7,False
+U0157,Ngo Phuong Cuc,50,Female,Viet Nam,2025-11-02 03:03:00,Luxury,High,7,True
+U0158,Karen Bernard,36,Male,South Korea,2025-06-09 20:32:00,Relaxation,Medium,4,True
+U0159,Bui Quoc Tuan,20,Male,Viet Nam,2026-05-07 21:05:00,Relaxation,High,3,False
+U0160,Susan Bernard,38,Female,USA,2025-06-11 12:55:00,Culture/Historical,Low,5,False
+U0161,Ngo Duc Khanh,22,Male,Viet Nam,2025-10-02 23:42:00,Family,Medium,6,True
+U0162,Dang Huu Bao,39,Male,Viet Nam,2026-04-26 05:53:00,Family,Medium,5,True
+U0163,Ngo Khanh Hoa,43,Female,Viet Nam,2025-10-29 06:02:00,Luxury,High,5,False
+U0164,Jessica Park,23,Female,Australia,2025-10-08 01:48:00,Family,Medium,4,False
+U0165,Hoang Duc Phong,41,Male,Viet Nam,2025-12-06 13:56:00,Culture/Historical,Medium,5,True
+U0166,Phan Thanh Nam,36,Male,Viet Nam,2025-07-13 23:27:00,Backpacking,Low,7,True
+U0167,Do Tuan Nam,40,Male,Viet Nam,2026-01-15 19:45:00,Culture/Historical,Low,5,True
+U0168,Patricia Taylor,50,Male,Japan,2026-01-09 08:40:00,Backpacking,Low,11,True
+U0169,Nguyen Ngoc Quynh,29,Female,Viet Nam,2026-04-08 21:50:00,Culture/Historical,Low,2,True
+U0170,Bui Thi Thao,24,Female,Viet Nam,2025-08-18 21:28:00,Adventure,Medium,6,True
+U0171,Do Phuong Cuc,23,Female,Viet Nam,2025-07-29 00:47:00,Luxury,High,6,False
+U0172,Yuki Lee,23,Male,USA,2025-09-18 19:18:00,Family,High,5,True
+U0173,Le Hai Son,31,Male,Viet Nam,2025-07-15 21:54:00,Adventure,Medium,6,True
+U0174,Le Hai Tung,35,Male,Viet Nam,2026-05-25 20:11:00,Adventure,Medium,6,False
+U0175,Vo Thi Trang,34,Female,Viet Nam,2026-03-11 18:23:00,Culture/Historical,High,6,True
+U0176,Vu My Yen,40,Female,Viet Nam,2026-02-01 16:26:00,Culture/Historical,High,2,True
+U0177,Vo Duy Hai,32,Male,Viet Nam,2025-11-24 04:56:00,Relaxation,High,4,True
+U0178,Duong Van Bao,46,Male,Viet Nam,2025-08-03 16:09:00,Adventure,Low,10,False
+U0179,Susan Martinez,29,Male,South Korea,2025-07-11 08:12:00,Family,High,4,True
+U0180,Dang Duy Tuan,59,Male,Viet Nam,2026-03-31 18:09:00,Luxury,High,7,True
+U0181,Duong Thi Lan,38,Female,Viet Nam,2025-06-24 20:49:00,Relaxation,Medium,4,True
+U0182,Vo Duy Hai,23,Male,Viet Nam,2025-10-27 20:19:00,Culture/Historical,Medium,5,True
+U0183,Vo Quoc Son,21,Male,Viet Nam,2026-01-24 06:21:00,Relaxation,Medium,5,True
+U0184,William Suzuki,36,Female,Australia,2026-02-19 17:06:00,Adventure,Low,6,True
+U0185,Hoang Quoc Bao,29,Male,Viet Nam,2026-04-12 13:15:00,Luxury,High,7,True
+U0186,Dang Xuan Son,39,Male,Viet Nam,2025-11-05 15:01:00,Backpacking,Medium,13,True
+U0187,Nguyen Van Nam,36,Male,Viet Nam,2026-02-09 19:56:00,Family,Medium,4,True
+U0188,Ly Phuong Yen,31,Female,Viet Nam,2025-12-05 12:23:00,Backpacking,Low,14,True
+U0189,Vu Thanh Son,23,Male,Viet Nam,2026-03-09 08:52:00,Relaxation,High,3,True
+U0190,Phan Thanh Khanh,18,Male,Viet Nam,2025-08-13 06:38:00,Relaxation,Medium,3,True
+U0191,Vo Thanh Son,27,Male,Viet Nam,2025-08-16 19:57:00,Relaxation,Medium,7,True
+U0192,Duong Tuan Lam,40,Male,Viet Nam,2025-11-20 16:53:00,Relaxation,Medium,7,True
+U0193,Do Hong Linh,34,Female,Viet Nam,2026-03-26 09:50:00,Family,High,2,True
+U0194,Ngo Cong Lam,19,Male,Viet Nam,2025-09-25 23:03:00,Relaxation,Medium,7,True
+U0195,William Davis,33,Female,France,2025-06-17 18:44:00,Backpacking,Low,12,True
+U0196,Vu Thanh Phong,35,Male,Viet Nam,2026-04-10 15:55:00,Family,High,3,True
+U0197,Barbara Martin,23,Female,Australia,2025-12-10 10:11:00,Culture/Historical,High,4,True
+U0198,Hiroshi Rodriguez,33,Female,Japan,2026-04-09 15:12:00,Luxury,High,5,True
+U0199,Hoang My Cuc,32,Other,Viet Nam,2026-05-20 22:31:00,Adventure,Medium,13,False
+U0200,Tran Cat Ha,20,Female,Viet Nam,2026-03-06 12:57:00,Culture/Historical,High,3,True
+U0201,Phan Xuan Huy,35,Male,Viet Nam,2025-10-10 23:30:00,Luxury,High,7,True
+U0202,Tran Cat Yen,37,Female,Viet Nam,2026-03-28 07:15:00,Backpacking,Low,13,True
+U0203,Phan Hai Son,42,Male,Viet Nam,2025-07-22 21:49:00,Luxury,Medium,7,False
+U0204,Ly Xuan Son,42,Male,Viet Nam,2026-04-30 06:48:00,Adventure,Low,5,False
+U0205,Dang Hai Tung,18,Male,Viet Nam,2025-06-20 05:26:00,Luxury,High,3,False
+U0206,Ly Hai Bao,22,Male,Viet Nam,2025-10-27 01:00:00,Adventure,Medium,6,False
+U0207,Do Thanh Hai,37,Male,Viet Nam,2026-02-08 04:54:00,Relaxation,Medium,4,False
+U0208,Do Tuan Tung,37,Male,Viet Nam,2025-09-04 00:47:00,Adventure,Medium,14,True
+U0209,Do Quoc Bao,37,Male,Viet Nam,2026-01-05 16:20:00,Backpacking,Low,6,True
+U0210,Pham Van Nam,70,Male,Viet Nam,2025-12-14 07:28:00,Adventure,High,9,True
+U0211,Phan My Cuc,37,Female,Viet Nam,2025-07-02 21:07:00,Culture/Historical,Medium,5,True
+U0212,Ji-woo Martinez,43,Female,Japan,2026-05-20 03:40:00,Adventure,Medium,8,True
+U0213,Ho Cong Khanh,41,Male,Viet Nam,2025-12-30 22:35:00,Culture/Historical,Medium,3,True
+U0214,Ngo Hong Anh,38,Female,Viet Nam,2026-01-15 16:45:00,Adventure,Low,14,True
+U0215,Richard Dubois,28,Female,South Korea,2026-03-02 04:10:00,Adventure,High,12,True
+U0216,Tran Thanh Son,39,Male,Viet Nam,2025-06-29 14:08:00,Relaxation,Medium,7,True
+U0217,Min-ji Smith,24,Male,USA,2025-12-20 08:52:00,Backpacking,Low,14,True
+U0218,Dang Van Cuong,29,Male,Viet Nam,2026-01-28 01:18:00,Culture/Historical,Low,3,True
+U0219,Vu Minh Linh,27,Other,Viet Nam,2026-01-16 12:24:00,Backpacking,Low,13,True
+U0220,Dang Truc Anh,32,Female,Viet Nam,2025-08-05 23:14:00,Backpacking,Medium,9,True
+U0221,Vu Thu Cuc,55,Female,Viet Nam,2026-01-22 11:09:00,Adventure,Low,6,True
+U0222,Ly Thi Cuc,18,Female,Viet Nam,2025-09-14 02:06:00,Relaxation,Low,7,True
+U0223,Nguyen Truc Huong,38,Female,Viet Nam,2025-09-28 17:13:00,Backpacking,Low,9,True
+U0224,Bui Cat Chi,18,Female,Viet Nam,2026-05-11 10:15:00,Adventure,High,13,True
+U0225,Bui Hai Tuan,27,Male,Viet Nam,2026-04-17 21:27:00,Relaxation,Medium,5,False
+U0226,Mary Kim,42,Female,USA,2025-12-27 04:19:00,Culture/Historical,Low,6,True
+U0227,Ho Ngoc Chi,32,Female,Viet Nam,2026-01-24 01:35:00,Culture/Historical,High,6,True
+U0228,Phan Duy Cuong,21,Male,Viet Nam,2026-01-17 11:05:00,Relaxation,High,4,True
+U0229,Nguyen Duc Dung,24,Male,Viet Nam,2026-03-28 23:42:00,Relaxation,Medium,4,False
+U0230,James Miller,38,Male,South Korea,2025-09-06 23:07:00,Family,High,5,False
+U0231,Vu Thu Anh,24,Female,Viet Nam,2025-11-12 09:24:00,Culture/Historical,Medium,4,True
+U0232,Elizabeth Brown,34,Male,Japan,2026-01-27 10:58:00,Luxury,High,6,True
+U0233,Nguyen Phuong Anh,32,Female,Viet Nam,2026-03-27 18:46:00,Culture/Historical,Medium,3,True
+U0234,Barbara Bernard,25,Male,France,2026-05-02 21:21:00,Adventure,Medium,12,False
+U0235,Le My Chi,53,Female,Viet Nam,2025-11-28 05:08:00,Family,Medium,3,False
+U0236,Nguyen Anh Hoa,38,Female,Viet Nam,2025-07-09 21:03:00,Backpacking,Low,8,True
+U0237,Vo Huu Hung,18,Male,Viet Nam,2026-04-13 20:42:00,Relaxation,High,6,True
+U0238,Nguyen Anh Yen,33,Female,Viet Nam,2025-10-19 17:18:00,Backpacking,Low,11,False
+U0239,Tran Anh Mai,25,Female,Viet Nam,2025-10-02 06:39:00,Relaxation,Medium,5,True
+U0240,Vu Xuan Lam,40,Male,Viet Nam,2025-10-03 22:14:00,Adventure,Medium,6,True
+U0241,Robert Takahashi,24,Female,USA,2025-12-12 12:35:00,Culture/Historical,Low,2,True
+U0242,Kenji Sato,30,Male,France,2026-03-17 03:57:00,Relaxation,High,4,True
+U0243,Barbara Rodriguez,37,Female,Japan,2025-06-24 02:43:00,Adventure,High,14,True
+U0244,James Miller,40,Male,Japan,2026-03-28 04:48:00,Family,High,2,True
+U0245,Duong Truc Ha,19,Female,Viet Nam,2026-03-04 10:24:00,Family,Medium,2,True
+U0246,Vu Thu Quynh,28,Other,Viet Nam,2025-07-09 10:38:00,Relaxation,High,6,False
+U0247,Ngo Xuan Son,27,Male,Viet Nam,2025-09-25 11:35:00,Culture/Historical,Medium,6,True
+U0248,Ngo Anh Tung,25,Male,Viet Nam,2025-07-08 02:17:00,Luxury,High,4,True
+U0249,Nguyen Tuan Son,49,Male,Viet Nam,2025-12-02 08:06:00,Luxury,Medium,6,True
+U0250,Nguyen Hong Trang,36,Female,Viet Nam,2026-03-11 02:38:00,Relaxation,High,6,True
+U0251,Min-ji Bernard,19,Male,USA,2025-10-03 18:33:00,Luxury,High,4,True
+U0252,Tran Minh Trung,41,Male,Viet Nam,2025-10-20 13:19:00,Culture/Historical,Medium,4,True
+U0253,Bui Cong Dung,53,Male,Viet Nam,2026-01-21 03:08:00,Adventure,Low,11,True
+U0254,Mary Lee,42,Female,USA,2025-11-19 13:52:00,Family,High,3,True
+U0255,Vo Minh Mai,18,Female,Viet Nam,2025-12-21 10:18:00,Family,Medium,5,False
+U0256,Hoang Truc Trang,27,Female,Viet Nam,2025-07-29 18:12:00,Relaxation,High,4,True
+U0257,Elizabeth Miller,44,Female,South Korea,2026-01-11 09:53:00,Family,Medium,5,True
+U0258,Hoang Duy Tuan,24,Male,Viet Nam,2026-01-03 12:04:00,Culture/Historical,High,5,True
+U0259,Jean Kim,36,Female,South Korea,2026-03-06 01:50:00,Adventure,Medium,13,True
+U0260,Pham Nhu Ha,39,Female,Viet Nam,2025-11-29 05:41:00,Relaxation,Low,6,False
+U0261,Michael Smith,22,Male,USA,2025-07-21 08:14:00,Relaxation,High,7,True
+U0262,Vu Khanh Chi,31,Female,Viet Nam,2026-05-14 18:44:00,Relaxation,Medium,3,True
+U0263,Robert Brown,18,Male,South Korea,2025-08-12 11:19:00,Adventure,Medium,8,True
+U0264,Ho Hai Son,21,Male,Viet Nam,2025-11-11 02:19:00,Backpacking,Medium,6,True
+U0265,Ngo Minh Tung,29,Male,Viet Nam,2025-10-03 16:11:00,Relaxation,Medium,7,True
+U0266,Kenji Garcia,19,Male,USA,2025-09-04 20:42:00,Culture/Historical,Medium,6,False
+U0267,Nguyen Hai Dung,48,Male,Viet Nam,2025-09-14 08:48:00,Family,High,2,True
+U0268,Phan Minh Cuc,18,Female,Viet Nam,2026-01-21 03:16:00,Family,High,6,False
+U0269,Vu Cong Cuong,27,Male,Viet Nam,2025-11-26 11:54:00,Culture/Historical,Medium,4,False
+U0270,Phan Hong Cuc,33,Female,Viet Nam,2025-11-04 03:11:00,Adventure,Medium,13,True
+U0271,Vu Ngoc Huong,46,Female,Viet Nam,2026-04-22 17:44:00,Family,High,3,True
+U0272,Phan Khanh Thao,18,Female,Viet Nam,2025-06-28 11:00:00,Culture/Historical,Low,5,False
+U0273,Do Khanh Linh,43,Female,Viet Nam,2026-05-30 14:31:00,Luxury,Medium,3,False
+U0274,Pham Thanh Nam,32,Male,Viet Nam,2025-08-26 14:36:00,Family,High,5,True
+U0275,Ngo Thanh Bao,22,Male,Viet Nam,2025-12-05 17:52:00,Backpacking,Medium,12,True
+U0276,Duong Nhu Chi,36,Other,Viet Nam,2025-10-05 09:55:00,Backpacking,Low,10,False
+U0277,Michael Davis,33,Male,Japan,2025-09-16 23:37:00,Family,Medium,6,True
+U0278,Pham Anh Phong,25,Male,Viet Nam,2025-07-01 18:22:00,Relaxation,Medium,7,True
+U0279,Bui Phuong Quynh,32,Other,Viet Nam,2026-02-19 21:52:00,Backpacking,Low,11,False
+U0280,William Jones,28,Other,Japan,2025-10-06 04:45:00,Adventure,Medium,11,True
+U0281,Vu Truc Huong,33,Female,Viet Nam,2025-07-09 20:50:00,Backpacking,Low,9,True
+U0282,Vo Minh Thao,38,Female,Viet Nam,2025-06-02 23:05:00,Family,High,4,False
+U0283,Vu Thu Huong,47,Female,Viet Nam,2025-10-16 10:53:00,Adventure,Low,14,True
+U0284,Charlotte Johnson,19,Female,USA,2025-06-24 03:40:00,Culture/Historical,Low,3,True
+U0285,Richard Jones,53,Male,South Korea,2026-04-29 09:10:00,Adventure,Low,10,True
+U0286,David Johnson,18,Male,South Korea,2025-12-20 20:19:00,Family,Medium,3,True
+U0287,Pham Xuan Cuong,30,Male,Viet Nam,2025-08-07 18:14:00,Relaxation,High,3,True
+U0288,Duong Quoc Tung,37,Male,Viet Nam,2025-08-07 15:04:00,Luxury,High,3,True
+U0289,Vu Minh Huy,34,Male,Viet Nam,2026-05-13 04:04:00,Relaxation,Medium,7,True
+U0290,Do Hai Tuan,25,Male,Viet Nam,2025-12-28 19:43:00,Culture/Historical,High,2,False
+U0291,Ho Quoc Khanh,29,Male,Viet Nam,2026-01-06 10:50:00,Luxury,High,3,True
+U0292,Hoang My Hoa,27,Female,Viet Nam,2026-05-04 09:13:00,Relaxation,High,4,True
+U0293,Ly Anh Son,26,Male,Viet Nam,2025-12-15 03:15:00,Culture/Historical,Medium,2,True
+U0294,Sophie Sato,40,Other,Australia,2025-08-07 12:55:00,Relaxation,Medium,7,True
+U0295,Ji-woo Williams,35,Female,South Korea,2025-06-09 18:04:00,Backpacking,Low,5,False
+U0296,Hoang Nhu Yen,25,Female,Viet Nam,2026-02-12 13:27:00,Family,Medium,6,True
+U0297,Tran Thanh Dung,40,Male,Viet Nam,2025-08-19 17:20:00,Culture/Historical,Medium,2,True
+U0298,Joseph Johnson,35,Male,South Korea,2025-10-04 02:59:00,Culture/Historical,Low,6,True
+U0299,Ho Minh Cuong,40,Male,Viet Nam,2025-06-07 22:08:00,Family,Low,5,False
+U0300,Min-ji Rodriguez,38,Female,USA,2025-08-25 11:08:00,Family,High,4,True
+U0301,Mary Kim,23,Male,Japan,2025-10-18 16:04:00,Adventure,Medium,14,True
+U0302,Nguyen Khanh Quynh,26,Female,Viet Nam,2026-03-18 05:23:00,Luxury,High,3,False
+U0303,Ho Anh Hoa,39,Female,Viet Nam,2025-06-23 00:15:00,Backpacking,Low,11,False
+U0304,John Bernard,38,Male,Australia,2026-05-02 13:14:00,Adventure,Low,10,True
+U0305,Dang Duy Hung,31,Male,Viet Nam,2025-08-31 07:51:00,Relaxation,High,6,True
+U0306,Duong Tuan Khanh,33,Male,Viet Nam,2025-07-15 17:29:00,Backpacking,Low,9,True
+U0307,Vo Huu Lam,44,Male,Viet Nam,2026-02-08 06:46:00,Relaxation,High,4,True
+U0308,Dang Minh Ha,26,Female,Viet Nam,2026-05-22 00:21:00,Backpacking,Medium,11,False
+U0309,Dang Thu Linh,37,Female,Viet Nam,2026-02-07 01:09:00,Family,Medium,2,False
+U0310,Ho Minh Huong,29,Female,Viet Nam,2025-07-14 18:06:00,Relaxation,Medium,6,True
+U0311,Le Thu Vy,29,Female,Viet Nam,2025-10-12 10:59:00,Culture/Historical,Medium,4,True
+U0312,Pham Minh Phong,42,Male,Viet Nam,2026-03-27 03:09:00,Backpacking,Low,12,True
+U0313,Ngo Anh Son,40,Male,Viet Nam,2025-11-05 14:16:00,Backpacking,Low,9,False
+U0314,Duong Minh Mai,40,Female,Viet Nam,2025-07-17 22:15:00,Adventure,Medium,5,True
+U0315,James Takahashi,45,Male,Australia,2026-01-18 17:47:00,Relaxation,Medium,6,True
+U0316,Nguyen Thu Mai,32,Female,Viet Nam,2025-09-10 12:23:00,Family,Medium,2,True
+U0317,James Williams,38,Male,France,2025-09-10 20:28:00,Luxury,Medium,5,True
+U0318,Ly Cat Linh,28,Female,Viet Nam,2025-12-20 15:01:00,Culture/Historical,Medium,3,True
+U0319,Vo Ngoc Hoa,35,Female,Viet Nam,2026-04-11 19:39:00,Luxury,High,6,True
+U0320,Hoang Truc Mai,30,Female,Viet Nam,2026-01-01 06:41:00,Relaxation,Medium,7,False
+U0321,Patricia Park,32,Other,USA,2026-03-06 15:22:00,Relaxation,Medium,6,True
+U0322,Nguyen Tuan Hung,37,Male,Viet Nam,2026-01-28 16:22:00,Relaxation,High,4,True
+U0323,Duong My Hoa,23,Female,Viet Nam,2025-09-21 18:54:00,Culture/Historical,Medium,3,True
+U0324,Yuki Suzuki,52,Female,USA,2026-03-30 00:45:00,Family,Medium,6,True
+U0325,Ngo Khanh Anh,21,Female,Viet Nam,2025-11-06 05:31:00,Backpacking,Low,8,True
+U0326,Phan Cong Dung,19,Male,Viet Nam,2025-08-06 10:45:00,Luxury,High,5,True
+U0327,Le Duc Bao,43,Male,Viet Nam,2026-02-25 11:04:00,Adventure,Medium,11,True
+U0328,Le Hai Trung,39,Male,Viet Nam,2026-04-24 15:41:00,Adventure,Low,13,True
+U0329,Joseph Dubois,38,Female,USA,2025-08-29 12:19:00,Family,Medium,3,True
+U0330,Bui Quoc Bao,38,Male,Viet Nam,2026-03-18 01:11:00,Relaxation,Medium,7,True
+U0331,William Sato,31,Female,South Korea,2025-07-10 07:22:00,Adventure,Low,6,False
+U0332,Phan Khanh Hoa,23,Female,Viet Nam,2025-10-14 06:15:00,Family,Medium,4,False
+U0333,Vo My Linh,32,Female,Viet Nam,2025-08-25 13:31:00,Culture/Historical,Medium,5,True
+U0334,Kenji Davis,25,Male,Japan,2025-08-23 14:04:00,Backpacking,Low,10,True
+U0335,Ly Quoc Tuan,41,Male,Viet Nam,2025-07-09 17:57:00,Backpacking,Low,14,False
+U0336,Do Ngoc Thao,30,Female,Viet Nam,2026-01-09 05:03:00,Backpacking,Low,8,True
+U0337,Jessica Rodriguez,23,Female,South Korea,2026-05-05 09:19:00,Luxury,Medium,6,True
+U0338,Phan Thi Linh,28,Female,Viet Nam,2025-07-15 09:52:00,Family,Medium,5,True
+U0339,Hoang Duc Son,36,Male,Viet Nam,2025-07-30 09:50:00,Culture/Historical,Medium,4,True
+U0340,Ly Truc Trang,26,Female,Viet Nam,2025-09-04 14:02:00,Adventure,Medium,9,True
+U0341,Ngo Hai Huy,23,Male,Viet Nam,2025-07-20 02:42:00,Adventure,Medium,11,False
+U0342,Duong Truc Quynh,34,Female,Viet Nam,2026-02-23 13:34:00,Family,High,5,True
+U0343,Vu Hai Hung,34,Male,Viet Nam,2026-02-13 18:57:00,Relaxation,High,7,True
+U0344,Le Thu Chi,26,Female,Viet Nam,2025-09-07 04:02:00,Culture/Historical,Low,5,True
+U0345,Bui Phuong Trang,27,Female,Viet Nam,2025-07-05 02:24:00,Relaxation,Medium,5,False
+U0346,James Taylor,34,Female,South Korea,2026-03-28 16:50:00,Culture/Historical,Low,3,True
+U0347,Michael Brown,18,Female,USA,2026-03-16 03:50:00,Adventure,High,10,False
+U0348,Bui Cong Son,18,Male,Viet Nam,2025-06-20 05:17:00,Culture/Historical,Low,6,True
+U0349,Ly Huu Tung,24,Male,Viet Nam,2025-09-30 01:47:00,Culture/Historical,High,4,True
+U0350,Hoang Khanh Quynh,29,Female,Viet Nam,2026-05-23 21:06:00,Luxury,Medium,6,True
+U0351,Bui Duy Cuong,35,Male,Viet Nam,2025-09-05 14:13:00,Culture/Historical,Medium,6,False
+U0352,Le Hong Vy,46,Female,Viet Nam,2026-05-30 16:25:00,Luxury,High,7,False
+U0353,Duong Anh Bao,40,Male,Viet Nam,2025-06-30 07:02:00,Culture/Historical,Low,4,True
+U0354,Susan Takahashi,30,Male,France,2026-04-22 03:43:00,Backpacking,Low,12,True
+U0355,Sarah Bernard,31,Male,Japan,2025-11-27 11:10:00,Adventure,Medium,6,True
+U0356,Bui Anh Bao,21,Male,Viet Nam,2025-09-22 20:14:00,Family,Medium,5,True
+U0357,Hiroshi Smith,31,Female,Australia,2026-01-29 04:41:00,Luxury,High,3,True
+U0358,Yuki Rodriguez,29,Female,South Korea,2026-01-03 12:54:00,Adventure,Medium,8,True
+U0359,Jennifer Dubois,35,Female,France,2025-07-23 00:32:00,Family,High,4,True
+U0360,Do Hong Huong,23,Female,Viet Nam,2025-07-03 10:17:00,Family,Medium,4,True
+U0361,Charles Miller,37,Female,Japan,2025-08-16 16:48:00,Luxury,High,7,True
+U0362,Nguyen Duy Son,47,Male,Viet Nam,2025-10-30 08:58:00,Culture/Historical,Medium,2,True
+U0363,Mary Davis,30,Other,France,2026-05-18 17:40:00,Culture/Historical,High,4,True
+U0364,Charlotte Bernard,36,Female,France,2025-09-01 09:06:00,Culture/Historical,Low,4,True
+U0365,Hiroshi Sato,38,Female,South Korea,2026-05-02 02:14:00,Adventure,Low,9,True
+U0366,Bui Phuong Huong,27,Female,Viet Nam,2025-07-31 15:03:00,Family,Medium,6,True
+U0367,Duong Nhu Linh,34,Female,Viet Nam,2026-02-27 09:26:00,Backpacking,Medium,7,True
+U0368,Bui Xuan Tuan,32,Male,Viet Nam,2025-11-09 22:11:00,Backpacking,Low,7,True
+U0369,Pham Minh Lam,32,Male,Viet Nam,2025-08-21 15:50:00,Backpacking,Low,11,True
+U0370,Jennifer Smith,24,Male,Australia,2025-06-20 17:12:00,Family,Medium,2,False
+U0371,Nguyen Nhu Hoa,32,Female,Viet Nam,2026-04-17 23:15:00,Luxury,High,5,True
+U0372,Hoang Minh Cuong,36,Male,Viet Nam,2025-06-24 09:18:00,Culture/Historical,Medium,6,True
+U0373,Le Huu Son,46,Male,Viet Nam,2025-12-01 06:10:00,Culture/Historical,Low,3,True
+U0374,Bui Thanh Tuan,41,Male,Viet Nam,2025-08-03 11:45:00,Family,High,5,False
+U0375,Nguyen Cong Hung,53,Male,Viet Nam,2026-05-05 03:41:00,Backpacking,Low,6,True
+U0376,Vo Hai Tuan,24,Male,Viet Nam,2025-09-14 22:43:00,Family,Low,5,True
+U0377,Bui My Mai,40,Female,Viet Nam,2026-01-01 03:32:00,Family,Medium,4,True
+U0378,Pham Tuan Bao,33,Male,Viet Nam,2026-02-23 06:22:00,Family,Medium,3,True
+U0379,Ly Khanh Trang,53,Female,Viet Nam,2025-09-29 00:00:00,Family,Medium,2,False
+U0380,Tran Anh Lan,23,Female,Viet Nam,2025-07-22 08:41:00,Luxury,High,5,True
+U0381,Jean Johnson,23,Male,France,2025-10-27 11:51:00,Family,Medium,2,True
+U0382,Duong Ngoc Ha,26,Female,Viet Nam,2026-04-28 05:21:00,Adventure,High,14,True
+U0383,Phan Ngoc Lan,18,Female,Viet Nam,2025-12-23 12:29:00,Adventure,Medium,12,False
+U0384,Michael Jones,26,Female,USA,2026-05-23 23:03:00,Luxury,Medium,7,True
+U0385,Bui Truc Chi,24,Female,Viet Nam,2025-12-01 19:01:00,Family,High,3,True
+U0386,Elizabeth Johnson,33,Female,Japan,2025-07-03 08:41:00,Adventure,Low,13,True
+U0387,Do Minh Anh,35,Female,Viet Nam,2026-02-23 22:44:00,Relaxation,Low,4,True
+U0388,Le Anh Thao,50,Female,Viet Nam,2025-06-28 00:41:00,Luxury,High,6,False
+U0389,Vo Minh Cuc,41,Female,Viet Nam,2025-11-17 08:03:00,Relaxation,Medium,6,True
+U0390,Ngo Cong Son,26,Male,Viet Nam,2025-07-16 15:28:00,Adventure,Low,12,True
+U0391,Nguyen Thanh Hai,23,Male,Viet Nam,2025-06-01 02:50:00,Relaxation,High,5,False
+U0392,Vo Minh Trang,36,Female,Viet Nam,2025-06-28 07:54:00,Culture/Historical,Medium,6,True
+U0393,Vo Hong Lan,18,Female,Viet Nam,2026-05-04 07:00:00,Adventure,Medium,9,True
+U0394,Ly Minh Son,50,Male,Viet Nam,2025-08-11 22:47:00,Family,Medium,4,True
+U0395,Jennifer Miller,43,Male,South Korea,2026-01-21 06:45:00,Adventure,Low,11,True
+U0396,Tran Khanh Huong,27,Female,Viet Nam,2026-05-04 18:32:00,Luxury,High,3,True
+U0397,Pierre Dubois,18,Male,South Korea,2026-02-03 16:49:00,Luxury,High,4,True
+U0398,Bui Cong Khanh,45,Male,Viet Nam,2026-02-14 12:26:00,Relaxation,High,4,True
+U0399,Elizabeth Jones,30,Other,Australia,2025-08-10 13:38:00,Family,High,6,True
+U0400,Yuki Bernard,44,Female,Japan,2026-04-20 06:12:00,Luxury,High,5,True
+U0401,Ho Nhu Mai,18,Female,Viet Nam,2026-02-13 17:44:00,Family,Medium,2,True
+U0402,Do My Linh,26,Female,Viet Nam,2026-05-12 23:57:00,Relaxation,Medium,6,False
+U0403,Le Thi Ha,32,Female,Viet Nam,2025-06-29 06:17:00,Luxury,High,5,True
+U0404,Richard Bernard,32,Male,USA,2025-06-17 11:52:00,Culture/Historical,Low,6,False
+U0405,Pham Anh Chi,27,Female,Viet Nam,2026-05-23 09:44:00,Family,Low,5,True
+U0406,Mary Bernard,38,Female,Australia,2025-06-28 00:47:00,Adventure,Low,12,False
+U0407,Do Minh Chi,21,Female,Viet Nam,2026-03-29 17:47:00,Relaxation,Medium,4,True
+U0408,Le Minh Tung,30,Male,Viet Nam,2026-02-19 03:24:00,Backpacking,Low,13,True
+U0409,James Sato,33,Male,France,2026-01-25 22:59:00,Luxury,Medium,5,True
+U0410,Duong Nhu Vy,37,Female,Viet Nam,2026-02-07 18:35:00,Adventure,Low,10,True
+U0411,Ngo Anh Mai,39,Female,Viet Nam,2025-12-30 17:34:00,Culture/Historical,Low,3,False
+U0412,Hoang Thu Chi,20,Female,Viet Nam,2026-04-13 16:30:00,Relaxation,High,3,True
+U0413,Do Cong Lam,18,Male,Viet Nam,2025-10-03 01:43:00,Adventure,Medium,6,True
+U0414,Ly Anh Quynh,44,Female,Viet Nam,2025-12-09 16:51:00,Relaxation,Medium,3,True
+U0415,Tran Hong Mai,35,Female,Viet Nam,2026-03-03 17:00:00,Family,Medium,3,False
+U0416,Dang Hai Tung,24,Male,Viet Nam,2026-01-09 20:52:00,Backpacking,Low,7,True
+U0417,Tran Thi Mai,47,Female,Viet Nam,2025-10-07 17:04:00,Relaxation,High,5,True
+U0418,Phan Van Trung,33,Male,Viet Nam,2026-05-11 03:34:00,Backpacking,Low,14,True
+U0419,Duong Hong Trang,43,Female,Viet Nam,2026-02-13 03:18:00,Family,Medium,2,True
+U0420,Duong Nhu Hoa,32,Female,Viet Nam,2026-01-29 05:34:00,Luxury,Medium,6,False
+U0421,Do Ngoc Vy,52,Female,Viet Nam,2026-05-13 23:41:00,Adventure,High,5,True
+U0422,Nguyen Cat Thao,49,Female,Viet Nam,2025-12-19 17:35:00,Backpacking,Low,10,True
+U0423,William Garcia,29,Female,Japan,2025-09-03 07:39:00,Adventure,Low,7,True
+U0424,Ngo Anh Huong,41,Female,Viet Nam,2026-04-27 17:04:00,Adventure,Medium,9,True
+U0425,Phan Minh Mai,38,Female,Viet Nam,2026-05-10 20:15:00,Backpacking,Low,6,False
+U0426,Bui Duy Nam,45,Male,Viet Nam,2026-05-22 18:09:00,Relaxation,Medium,5,False
+U0427,Ngo Anh Tung,22,Male,Viet Nam,2026-04-25 13:17:00,Adventure,Low,10,False
+U0428,Hoang Xuan Hai,38,Male,Viet Nam,2025-07-26 05:41:00,Relaxation,Low,5,False
+U0429,Hoang Hai Huy,42,Male,Viet Nam,2025-07-10 23:04:00,Backpacking,Medium,5,False
+U0430,Richard Johnson,18,Female,USA,2026-03-10 08:34:00,Relaxation,Medium,4,True
+U0431,Min-ji Martinez,20,Male,USA,2025-08-08 14:32:00,Relaxation,Low,5,True
+U0432,Seo-jun Taylor,18,Female,France,2026-05-17 05:48:00,Relaxation,Medium,4,True
+U0433,Le My Yen,29,Female,Viet Nam,2026-02-03 11:02:00,Luxury,High,4,True
+U0434,Pham Thanh Phong,39,Male,Viet Nam,2025-12-02 12:30:00,Culture/Historical,High,2,False
+U0435,Dang Duy Bao,47,Male,Viet Nam,2025-10-19 23:16:00,Relaxation,Medium,4,True
+U0436,Ly Duc Hai,32,Male,Viet Nam,2025-10-07 12:58:00,Luxury,High,5,False
+U0437,Charlotte Taylor,48,Male,USA,2025-06-04 16:56:00,Luxury,High,4,True
+U0438,Le Ngoc Trang,18,Female,Viet Nam,2026-04-05 22:52:00,Backpacking,Low,11,False
+U0439,Vo Khanh Cuc,18,Female,Viet Nam,2026-03-30 05:41:00,Culture/Historical,Low,2,True
+U0440,Dang Thi Thao,31,Female,Viet Nam,2025-08-15 01:10:00,Adventure,High,13,False
+U0441,Nguyen My Yen,35,Female,Viet Nam,2026-05-05 09:05:00,Luxury,High,6,False
+U0442,Karen Jones,31,Male,France,2026-03-26 05:39:00,Family,Medium,3,True
+U0443,Bui Duc Dung,18,Male,Viet Nam,2025-12-11 12:08:00,Backpacking,Low,13,False
+U0444,Le Cat Lan,31,Female,Viet Nam,2025-08-30 15:57:00,Relaxation,Medium,7,True
+U0445,Le Cong Hai,18,Male,Viet Nam,2025-06-01 21:41:00,Culture/Historical,Medium,4,False
+U0446,Ngo Khanh Chi,38,Female,Viet Nam,2025-12-13 11:37:00,Family,High,6,True
+U0447,Pham Duc Nam,35,Male,Viet Nam,2026-04-03 17:26:00,Adventure,Low,5,True
+U0448,Do Anh Tung,22,Male,Viet Nam,2025-11-09 13:23:00,Backpacking,Low,14,True
+U0449,Phan Cat Vy,26,Female,Viet Nam,2026-05-15 12:48:00,Luxury,High,7,True
+U0450,Hoang Tuan Lam,21,Male,Viet Nam,2025-11-24 22:25:00,Family,Medium,2,True
+U0451,Le Duc Dung,31,Male,Viet Nam,2026-02-16 12:50:00,Adventure,Medium,14,True
+U0452,Do Thi Chi,41,Female,Viet Nam,2025-07-17 04:30:00,Relaxation,Medium,3,True
+U0453,Ho Quoc Trung,22,Male,Viet Nam,2026-04-11 20:33:00,Adventure,Medium,14,True
+U0454,Vo Khanh Hoa,37,Female,Viet Nam,2025-09-12 21:59:00,Relaxation,Medium,3,False
+U0455,Bui Ngoc Ha,26,Female,Viet Nam,2025-06-19 11:15:00,Family,Low,3,True
+U0456,Do Quoc Trung,24,Male,Viet Nam,2026-03-28 06:33:00,Backpacking,Low,6,False
+U0457,Dang Cat Trang,30,Female,Viet Nam,2025-11-25 08:14:00,Relaxation,High,6,False
+U0458,Vu Anh Lan,21,Female,Viet Nam,2026-03-14 02:32:00,Adventure,Low,6,False
+U0459,Pierre Dubois,26,Female,Japan,2025-10-07 22:28:00,Culture/Historical,Medium,3,True
+U0460,Vo Cat Quynh,20,Other,Viet Nam,2025-06-15 15:07:00,Adventure,Low,8,True
+U0461,Phan Thanh Hai,51,Male,Viet Nam,2025-06-05 22:53:00,Adventure,Low,6,True
+U0462,Dang Ngoc Huong,32,Female,Viet Nam,2025-11-08 11:13:00,Relaxation,Medium,4,True
+U0463,Duong Tuan Dung,25,Male,Viet Nam,2025-09-26 06:53:00,Luxury,High,5,True
+U0464,Hiroshi Park,34,Male,South Korea,2026-04-11 00:48:00,Relaxation,High,6,True
+U0465,Charlotte Dubois,30,Male,Japan,2025-10-19 15:11:00,Relaxation,Medium,4,True
+U0466,Vu Xuan Hai,29,Male,Viet Nam,2025-06-17 16:22:00,Culture/Historical,High,3,True
+U0467,Phan Hai Hung,38,Male,Viet Nam,2025-06-07 21:13:00,Culture/Historical,Medium,4,True
+U0468,Hoang Thu Vy,39,Female,Viet Nam,2026-01-28 19:21:00,Adventure,Low,11,True
+U0469,Duong Truc Vy,26,Female,Viet Nam,2026-01-17 05:36:00,Luxury,High,4,False
+U0470,Jessica Kim,26,Female,USA,2025-12-13 06:09:00,Family,Medium,2,True
+U0471,Jean Martin,29,Female,Australia,2026-03-01 23:20:00,Culture/Historical,Medium,6,False
+U0472,Le Van Dung,18,Male,Viet Nam,2025-10-09 15:53:00,Family,Medium,4,True
+U0473,Ngo Tuan Khanh,18,Male,Viet Nam,2025-06-11 13:07:00,Adventure,High,14,True
+U0474,Le Phuong Trang,45,Female,Viet Nam,2025-11-14 21:32:00,Culture/Historical,Medium,5,False
+U0475,Do Minh Bao,48,Male,Viet Nam,2025-08-25 20:51:00,Adventure,Medium,14,True
+U0476,Le Minh Cuc,29,Female,Viet Nam,2025-11-08 10:41:00,Adventure,Medium,14,True
+U0477,Duong Huu Tung,37,Male,Viet Nam,2026-03-28 16:28:00,Culture/Historical,Low,2,True
+U0478,Ho Hai Tung,35,Male,Viet Nam,2025-07-11 06:10:00,Culture/Historical,Low,2,False
+U0479,Ngo Quoc Hai,62,Male,Viet Nam,2025-07-13 03:16:00,Relaxation,Medium,6,True
+U0480,Do Minh Tuan,43,Male,Viet Nam,2026-02-25 05:01:00,Backpacking,Low,10,False
+U0481,Sophie Rodriguez,30,Male,Japan,2026-03-08 14:08:00,Family,Medium,6,True
+U0482,Bui Truc Anh,22,Female,Viet Nam,2026-04-24 20:34:00,Adventure,High,12,True
+U0483,Phan Truc Vy,18,Female,Viet Nam,2025-08-19 09:00:00,Backpacking,Low,7,True
+U0484,Ly Xuan Phong,34,Male,Viet Nam,2026-01-31 09:00:00,Culture/Historical,Medium,6,True
+U0485,Vu Thanh Trung,24,Male,Viet Nam,2025-12-20 07:10:00,Family,High,5,False
+U0486,Do Anh Hai,18,Male,Viet Nam,2026-04-10 22:43:00,Adventure,Low,13,False
+U0487,David Jones,25,Male,Japan,2025-10-27 03:40:00,Culture/Historical,Medium,4,True
+U0488,Le Thi Anh,21,Female,Viet Nam,2025-06-12 05:06:00,Adventure,Low,12,True
+U0489,Vo Anh Khanh,48,Male,Viet Nam,2026-01-02 09:50:00,Culture/Historical,High,5,True
+U0490,Ngo Minh Hung,40,Male,Viet Nam,2025-10-15 12:04:00,Relaxation,Medium,4,False
+U0491,Nguyen Duc Phong,31,Male,Viet Nam,2025-10-06 12:49:00,Culture/Historical,Medium,2,True
+U0492,Do Thu Huong,46,Female,Viet Nam,2025-12-17 21:19:00,Adventure,Low,5,True
+U0493,Vo Nhu Vy,32,Female,Viet Nam,2025-09-10 11:56:00,Backpacking,Medium,8,False
+U0494,Nguyen Minh Phong,23,Male,Viet Nam,2025-10-20 18:07:00,Culture/Historical,Medium,2,False
+U0495,Ho Cat Mai,47,Female,Viet Nam,2025-12-08 02:15:00,Luxury,High,7,True
+U0496,John Johnson,37,Other,USA,2025-11-30 20:09:00,Family,Medium,2,True
+U0497,Seo-jun Suzuki,21,Male,Australia,2026-01-11 23:12:00,Backpacking,Low,10,True
+U0498,Ho Xuan Hai,30,Male,Viet Nam,2025-10-29 17:44:00,Culture/Historical,Low,3,True
+U0499,Duong Cong Bao,23,Male,Viet Nam,2026-03-11 05:04:00,Relaxation,Medium,5,False
+U0500,Ngo Nhu Anh,18,Female,Viet Nam,2025-12-12 23:11:00,Backpacking,Low,10,True
+U0501,Do Thanh Bao,41,Male,Viet Nam,2025-12-16 06:33:00,Family,Medium,6,True
+U0502,Phan Duc Cuong,51,Male,Viet Nam,2026-02-23 21:04:00,Backpacking,Medium,7,True
+U0503,Pham Duc Hung,18,Male,Viet Nam,2026-03-20 20:53:00,Culture/Historical,Medium,6,True
+U0504,Pham Cat Yen,37,Female,Viet Nam,2025-07-07 00:59:00,Luxury,High,3,True
+U0505,Ho Truc Quynh,25,Female,Viet Nam,2025-12-06 22:03:00,Relaxation,Medium,3,True
+U0506,Pham Anh Lan,27,Female,Viet Nam,2025-07-22 23:14:00,Relaxation,Medium,4,True
+U0507,Le Thanh Tung,26,Male,Viet Nam,2026-03-13 13:47:00,Backpacking,Medium,14,True
+U0508,Ly Duc Tuan,23,Male,Viet Nam,2025-09-01 17:25:00,Relaxation,Medium,4,True
+U0509,Charlotte Sato,32,Female,South Korea,2026-03-09 10:54:00,Adventure,Medium,11,False
+U0510,Dang Anh Trung,23,Male,Viet Nam,2026-03-09 23:16:00,Adventure,High,12,False
+U0511,Hoang Cong Hung,34,Male,Viet Nam,2026-02-21 04:56:00,Adventure,Low,8,True
+U0512,Yuki Rodriguez,31,Male,USA,2026-03-11 16:35:00,Relaxation,High,4,True
+U0513,Hoang Huu Lam,29,Male,Viet Nam,2025-10-06 07:16:00,Adventure,Low,11,True
+U0514,Phan Xuan Tuan,22,Male,Viet Nam,2026-02-05 22:44:00,Relaxation,High,3,True
+U0515,Bui Quoc Cuong,26,Male,Viet Nam,2025-06-29 10:22:00,Culture/Historical,Medium,2,False
+U0516,Bui Van Huy,39,Male,Viet Nam,2026-04-20 12:03:00,Adventure,Medium,10,True
+U0517,Pham Minh Hung,37,Male,Viet Nam,2026-05-11 23:25:00,Culture/Historical,Medium,6,True
+U0518,Vu Minh Tuan,22,Male,Viet Nam,2025-11-20 02:30:00,Relaxation,High,7,True
+U0519,Ngo Hai Tuan,32,Male,Viet Nam,2025-08-09 15:35:00,Luxury,High,7,True
+U0520,Pham Thu Lan,39,Female,Viet Nam,2025-10-15 13:20:00,Family,High,2,True
+U0521,Pham Huu Khanh,18,Male,Viet Nam,2026-04-01 20:01:00,Adventure,Low,10,True
+U0522,Le Khanh Hoa,37,Other,Viet Nam,2025-09-28 06:43:00,Adventure,Low,6,True
+U0523,Sophie Jones,25,Male,South Korea,2025-10-26 00:21:00,Family,High,4,True
+U0524,Dang Anh Dung,37,Male,Viet Nam,2026-03-07 16:48:00,Adventure,Medium,14,True
+U0525,Nguyen Quoc Lam,24,Male,Viet Nam,2026-05-06 16:02:00,Adventure,Low,9,True
+U0526,Vo Nhu Hoa,18,Female,Viet Nam,2025-07-05 12:42:00,Adventure,Medium,10,False
+U0527,Kenji Takahashi,18,Male,Japan,2025-09-27 12:32:00,Family,Medium,4,True
+U0528,Pham Anh Huong,32,Female,Viet Nam,2026-03-15 22:01:00,Backpacking,Low,13,True
+U0529,Nguyen Minh Ha,34,Female,Viet Nam,2025-11-28 11:40:00,Adventure,Low,13,True
+U0530,Vu Van Hai,22,Male,Viet Nam,2025-10-22 07:09:00,Adventure,High,7,True
+U0531,Karen Davis,38,Male,Australia,2025-12-31 07:36:00,Luxury,High,5,False
+U0532,Pham Duy Tuan,18,Male,Viet Nam,2026-03-25 17:43:00,Luxury,High,5,True
+U0533,Linda Jones,31,Female,South Korea,2026-05-02 18:58:00,Luxury,High,7,True
+U0534,Duong Ngoc Yen,19,Female,Viet Nam,2025-06-16 10:56:00,Culture/Historical,High,4,True
+U0535,Sophie Rodriguez,25,Female,Japan,2025-08-17 06:06:00,Luxury,High,7,True
+U0536,Bui Thu Cuc,32,Female,Viet Nam,2026-05-18 00:22:00,Backpacking,Low,12,True
+U0537,Do Minh Mai,23,Female,Viet Nam,2025-12-16 15:30:00,Luxury,High,4,True
+U0538,Hoang Truc Cuc,28,Female,Viet Nam,2026-05-10 06:48:00,Luxury,Medium,6,False
+U0539,Vo Thu Linh,42,Female,Viet Nam,2025-12-25 01:38:00,Family,High,4,True
+U0540,Dang Anh Ha,26,Female,Viet Nam,2026-05-27 01:33:00,Backpacking,Low,5,False
+U0541,Ho Van Hai,40,Male,Viet Nam,2025-12-16 16:48:00,Family,High,3,True
+U0542,Duong Tuan Son,20,Male,Viet Nam,2025-08-25 13:18:00,Relaxation,High,7,False
+U0543,Tran Hai Hai,37,Male,Viet Nam,2025-07-28 05:49:00,Relaxation,High,7,True
+U0544,Le Xuan Lam,46,Male,Viet Nam,2026-05-31 06:56:00,Culture/Historical,Low,4,True
+U0545,Yuki Brown,18,Female,USA,2025-07-17 03:45:00,Culture/Historical,Medium,2,True
+U0546,Susan Taylor,24,Male,USA,2025-08-21 12:35:00,Culture/Historical,Low,3,False
+U0547,Le Ngoc Quynh,37,Female,Viet Nam,2025-08-14 05:49:00,Family,Medium,4,True
+U0548,Do Ngoc Lan,29,Female,Viet Nam,2025-08-07 06:00:00,Relaxation,High,3,True
+U0549,Nguyen Cat Huong,35,Female,Viet Nam,2025-09-30 06:37:00,Family,Medium,5,True
+U0550,Ly Anh Vy,25,Female,Viet Nam,2026-04-14 20:35:00,Luxury,Medium,4,True
+U0551,Nguyen Duy Lam,32,Male,Viet Nam,2026-04-05 09:21:00,Backpacking,Low,11,False
+U0552,Do Hai Tung,30,Male,Viet Nam,2026-04-01 18:50:00,Relaxation,Medium,6,True
+U0553,Ngo Tuan Khanh,43,Male,Viet Nam,2025-12-06 12:52:00,Backpacking,Medium,13,True
+U0554,Duong Tuan Khanh,34,Male,Viet Nam,2026-02-25 13:33:00,Luxury,High,7,True
+U0555,Susan Williams,35,Female,Australia,2026-02-03 23:44:00,Relaxation,High,5,True
+U0556,Bui Cat Trang,27,Female,Viet Nam,2025-08-06 19:36:00,Culture/Historical,Medium,5,True
+U0557,Ho Tuan Dung,27,Male,Viet Nam,2025-06-01 03:01:00,Culture/Historical,Medium,2,True
+U0558,Vu Quoc Hung,27,Male,Viet Nam,2025-11-18 11:35:00,Family,Medium,3,True
+U0559,Hoang Thanh Hai,35,Male,Viet Nam,2025-11-13 00:07:00,Family,Medium,5,True
+U0560,Le Thu Trang,27,Female,Viet Nam,2025-11-21 21:30:00,Culture/Historical,Medium,3,True
+U0561,Jessica Sato,34,Female,Japan,2026-01-23 13:59:00,Family,Medium,6,True
+U0562,Dang Thi Cuc,52,Female,Viet Nam,2026-03-23 21:21:00,Adventure,Low,7,True
+U0563,Kenji Bernard,40,Male,Australia,2025-08-24 18:38:00,Culture/Historical,Low,2,False
+U0564,Phan My Hoa,28,Female,Viet Nam,2025-10-18 13:05:00,Culture/Historical,High,4,True
+U0565,Hoang Ngoc Lan,44,Female,Viet Nam,2025-12-09 01:49:00,Luxury,High,6,True
+U0566,William Miller,27,Female,South Korea,2025-11-22 15:46:00,Relaxation,Medium,5,True
+U0567,Susan Jones,18,Female,France,2025-09-14 23:02:00,Culture/Historical,Medium,6,True
+U0568,Duong Cong Bao,21,Male,Viet Nam,2025-07-15 10:29:00,Backpacking,Low,9,True
+U0569,Pham Minh Cuc,18,Female,Viet Nam,2025-09-07 09:17:00,Relaxation,Medium,6,True
+U0570,Tran Van Lam,28,Male,Viet Nam,2026-03-14 16:06:00,Luxury,High,7,True
+U0571,Hoang Cong Dung,32,Male,Viet Nam,2025-08-27 02:19:00,Relaxation,High,7,True
+U0572,Do Van Cuong,48,Male,Viet Nam,2025-12-14 01:05:00,Culture/Historical,Medium,6,False
+U0573,Vo Cat Trang,35,Female,Viet Nam,2025-11-07 10:52:00,Luxury,High,7,True
+U0574,Sarah Jones,29,Female,USA,2025-07-18 22:29:00,Backpacking,Low,12,True
+U0575,Ly Cat Vy,40,Female,Viet Nam,2025-12-04 12:11:00,Family,High,4,False
+U0576,Nguyen Hong Huong,18,Female,Viet Nam,2025-07-28 11:30:00,Culture/Historical,High,4,True
+U0577,Tran Truc Quynh,34,Female,Viet Nam,2025-07-25 10:35:00,Family,Medium,4,True
+U0578,Bui Anh Hai,39,Male,Viet Nam,2025-08-21 15:24:00,Backpacking,Low,14,True
+U0579,Phan Anh Yen,18,Other,Viet Nam,2025-09-29 05:42:00,Family,Medium,6,False
+U0580,Phan Thanh Cuong,43,Male,Viet Nam,2026-01-14 05:19:00,Culture/Historical,Low,2,True
+U0581,Mary Park,35,Female,France,2026-04-27 21:03:00,Backpacking,Low,7,False
+U0582,Nguyen Ngoc Ha,27,Female,Viet Nam,2025-08-16 14:34:00,Adventure,Medium,14,True
+U0583,Charles Dubois,38,Male,Japan,2026-05-14 09:58:00,Culture/Historical,Medium,4,False
+U0584,Dang Truc Quynh,54,Female,Viet Nam,2025-08-05 09:03:00,Adventure,High,5,True
+U0585,Michael Martinez,33,Female,Australia,2025-06-16 07:27:00,Family,Medium,4,True
+U0586,Pham Duy Tuan,34,Male,Viet Nam,2026-01-30 04:12:00,Relaxation,Medium,5,False
+U0587,Hiroshi Jones,27,Male,Australia,2025-08-08 00:04:00,Family,Low,5,True
+U0588,Le Nhu Chi,23,Other,Viet Nam,2025-12-30 14:57:00,Family,Medium,5,True
+U0589,Duong Xuan Trung,40,Male,Viet Nam,2025-11-29 07:11:00,Culture/Historical,Medium,6,True
+U0590,Hoang Truc Anh,23,Female,Viet Nam,2026-03-23 11:02:00,Backpacking,Low,10,True
+U0591,Le My Yen,32,Female,Viet Nam,2026-02-25 08:29:00,Relaxation,Low,7,True
+U0592,Do Duc Huy,27,Male,Viet Nam,2026-04-21 17:51:00,Relaxation,Medium,3,False
+U0593,Vo Anh Huong,36,Female,Viet Nam,2026-03-21 23:21:00,Culture/Historical,Medium,4,True
+U0594,Min-ji Martinez,35,Male,South Korea,2026-03-16 08:03:00,Family,Medium,3,True
+U0595,Ho Cat Hoa,42,Female,Viet Nam,2025-10-25 15:05:00,Luxury,High,5,True
+U0596,Hoang Thi Yen,26,Female,Viet Nam,2025-07-28 19:11:00,Relaxation,High,6,True
+U0597,Joseph Park,29,Male,USA,2025-09-01 16:55:00,Backpacking,Low,6,False
+U0598,Pierre Park,22,Female,France,2025-12-29 12:15:00,Family,Medium,3,True
+U0599,Do Phuong Chi,27,Female,Viet Nam,2025-07-30 01:10:00,Culture/Historical,Medium,4,True
+U0600,Joseph Takahashi,35,Female,South Korea,2026-05-16 22:24:00,Culture/Historical,Medium,6,False
+U0601,Elizabeth Takahashi,39,Male,South Korea,2026-05-14 10:33:00,Family,High,2,False
+U0602,Linda Taylor,22,Female,South Korea,2026-04-30 08:21:00,Adventure,Low,6,True
+U0603,Do My Cuc,40,Female,Viet Nam,2026-05-11 18:49:00,Luxury,High,4,True
+U0604,Tran Van Trung,45,Male,Viet Nam,2025-07-21 16:06:00,Family,Medium,3,True
+U0605,Bui Duc Hung,36,Male,Viet Nam,2026-04-01 21:57:00,Luxury,High,3,True
+U0606,William Takahashi,50,Male,Japan,2026-05-03 20:36:00,Luxury,High,4,True
+U0607,Kenji Lee,24,Male,South Korea,2025-10-20 13:44:00,Family,High,4,True
+U0608,Nguyen Truc Linh,19,Female,Viet Nam,2025-11-18 01:16:00,Adventure,Low,6,True
+U0609,Le Nhu Huong,18,Female,Viet Nam,2025-07-26 04:34:00,Culture/Historical,Medium,2,False
+U0610,Tran Hong Thao,46,Female,Viet Nam,2025-10-07 14:01:00,Culture/Historical,Low,2,False
+U0611,Ho Minh Linh,38,Female,Viet Nam,2026-03-22 00:32:00,Family,High,5,True
+U0612,Ngo Duc Hai,31,Male,Viet Nam,2025-09-24 00:24:00,Family,High,5,True
+U0613,Mary Martinez,34,Female,Australia,2025-12-23 01:40:00,Family,Medium,6,False
+U0614,Ji-woo Martinez,20,Male,France,2026-04-28 06:11:00,Relaxation,Low,6,True
+U0615,Tran Duy Tung,56,Male,Viet Nam,2025-12-01 15:05:00,Family,Medium,3,True
+U0616,Bui Anh Son,33,Male,Viet Nam,2025-12-17 02:50:00,Relaxation,High,6,True
+U0617,Nguyen Thi Trang,33,Female,Viet Nam,2025-06-29 10:50:00,Family,Low,2,True
+U0618,Do Anh Mai,39,Female,Viet Nam,2026-03-24 07:59:00,Backpacking,Low,7,True
+U0619,Karen Johnson,36,Male,South Korea,2025-10-03 22:41:00,Luxury,Medium,3,False
+U0620,Bui Ngoc Quynh,34,Female,Viet Nam,2026-03-30 02:52:00,Backpacking,Low,14,False
+U0621,Linda Sato,24,Male,USA,2026-05-14 12:20:00,Backpacking,High,14,True
+U0622,Richard Johnson,36,Male,Australia,2026-03-31 05:21:00,Backpacking,Low,7,True
+U0623,Le Xuan Dung,50,Male,Viet Nam,2026-03-25 01:08:00,Backpacking,Medium,14,True
+U0624,Robert Smith,45,Male,Japan,2025-06-04 05:59:00,Backpacking,Low,14,False
+U0625,Ji-woo Park,47,Male,USA,2026-05-21 04:13:00,Luxury,High,7,True
+U0626,Ho Van Lam,26,Male,Viet Nam,2025-09-01 22:31:00,Relaxation,High,5,True
+U0627,Tran Thanh Cuong,22,Male,Viet Nam,2026-04-13 11:55:00,Relaxation,Medium,6,True
+U0628,Pham Hong Chi,30,Female,Viet Nam,2025-08-16 21:54:00,Culture/Historical,Medium,3,True
+U0629,Hoang Anh Trung,32,Male,Viet Nam,2025-10-07 10:39:00,Culture/Historical,Low,2,False
+U0630,Barbara Martin,42,Male,USA,2025-07-30 02:57:00,Luxury,High,7,True
+U0631,Ly Huu Dung,18,Male,Viet Nam,2025-07-27 10:14:00,Backpacking,Low,11,False
+U0632,Vo Cong Son,47,Male,Viet Nam,2025-06-28 13:09:00,Luxury,High,6,True
+U0633,Pham Duy Khanh,30,Male,Viet Nam,2025-10-17 06:21:00,Luxury,Medium,7,True
+U0634,Elizabeth Kim,27,Male,Japan,2025-08-27 10:14:00,Adventure,Medium,14,False
+U0635,Pham Hong Linh,21,Female,Viet Nam,2026-02-23 15:55:00,Luxury,High,6,True
+U0636,Pham Thu Trang,18,Female,Viet Nam,2026-01-09 18:14:00,Relaxation,High,7,False
+U0637,Vo Hai Phong,40,Male,Viet Nam,2026-02-14 01:27:00,Relaxation,Medium,3,True
+U0638,Nguyen Hai Tung,32,Male,Viet Nam,2025-12-26 06:08:00,Adventure,Low,6,True
+U0639,Vo Cat Yen,19,Female,Viet Nam,2026-03-26 00:29:00,Culture/Historical,Medium,5,True
+U0640,Ho Nhu Hoa,19,Female,Viet Nam,2026-04-18 02:24:00,Family,Medium,2,True
+U0641,Bui Anh Thao,28,Female,Viet Nam,2025-09-15 21:05:00,Relaxation,High,3,True
+U0642,Nguyen Hong Linh,48,Female,Viet Nam,2025-12-05 14:39:00,Backpacking,Low,7,True
+U0643,Ngo Thu Mai,29,Female,Viet Nam,2025-11-19 07:34:00,Backpacking,Low,14,False
+U0644,Ji-woo Davis,18,Female,USA,2025-11-12 11:57:00,Adventure,Medium,11,True
+U0645,Vo Thanh Hai,29,Male,Viet Nam,2025-08-02 15:45:00,Relaxation,High,7,False
+U0646,Do Hai Phong,29,Male,Viet Nam,2025-07-04 06:57:00,Culture/Historical,Low,5,False
+U0647,Michael Garcia,18,Male,South Korea,2025-10-20 03:44:00,Luxury,High,4,True
+U0648,Do Anh Mai,31,Female,Viet Nam,2026-01-29 11:26:00,Culture/Historical,Medium,2,True
+U0649,Joseph Martin,29,Male,Japan,2026-04-27 10:26:00,Relaxation,Medium,5,True
+U0650,Dang Khanh Huong,38,Female,Viet Nam,2025-11-03 18:08:00,Adventure,Low,9,True
+U0651,Duong Van Tuan,50,Male,Viet Nam,2025-11-28 09:29:00,Luxury,High,4,True
+U0652,Pierre Jones,43,Male,Australia,2025-08-22 07:07:00,Backpacking,High,14,True
+U0653,Dang Hai Hung,29,Male,Viet Nam,2026-05-07 10:22:00,Luxury,High,7,False
+U0654,Nguyen Truc Huong,20,Female,Viet Nam,2025-08-14 14:59:00,Adventure,Low,13,False
+U0655,Vo Tuan Phong,57,Male,Viet Nam,2026-03-21 21:09:00,Relaxation,High,6,True
+U0656,Nguyen Minh Huy,32,Male,Viet Nam,2026-03-10 03:19:00,Backpacking,Low,8,True
+U0657,Do Anh Lam,32,Male,Viet Nam,2026-02-25 07:50:00,Adventure,Low,6,True
+U0658,Tran Thanh Trung,31,Male,Viet Nam,2025-09-08 15:20:00,Relaxation,High,3,False
+U0659,Duong Quoc Khanh,33,Male,Viet Nam,2025-12-15 11:00:00,Adventure,Low,9,False
+U0660,Ho Khanh Yen,30,Female,Viet Nam,2025-12-30 14:18:00,Luxury,High,6,True
+U0661,Karen Williams,26,Male,France,2025-08-13 06:19:00,Culture/Historical,High,6,False
+U0662,Ji-woo Takahashi,26,Male,Australia,2025-07-16 00:26:00,Family,High,5,True
+U0663,Ly Minh Dung,31,Male,Viet Nam,2025-09-04 12:18:00,Relaxation,Medium,5,False
+U0664,Vo Anh Hung,26,Male,Viet Nam,2025-06-02 04:16:00,Adventure,High,12,True
+U0665,Le Khanh Yen,24,Female,Viet Nam,2026-04-27 07:01:00,Backpacking,Medium,12,False
+U0666,Bui Xuan Lam,33,Male,Viet Nam,2026-01-10 08:40:00,Family,Medium,2,True
+U0667,Hoang Ngoc Thao,29,Female,Viet Nam,2025-06-30 04:20:00,Culture/Historical,High,3,True
+U0668,Do Huu Hung,47,Male,Viet Nam,2025-10-27 09:33:00,Family,High,6,True
+U0669,Karen Garcia,18,Female,USA,2026-03-06 10:55:00,Adventure,Medium,9,True
+U0670,Dang Cat Trang,42,Female,Viet Nam,2025-08-13 00:08:00,Relaxation,Medium,6,True
+U0671,Pham Ngoc Anh,44,Female,Viet Nam,2025-09-22 06:50:00,Relaxation,High,7,False
+U0672,Ngo Hong Linh,18,Female,Viet Nam,2026-01-22 02:07:00,Luxury,High,6,True
+U0673,Vo Cat Anh,28,Female,Viet Nam,2025-11-23 05:45:00,Adventure,Low,6,True
+U0674,Pham Phuong Mai,28,Female,Viet Nam,2025-09-16 04:05:00,Culture/Historical,Medium,2,True
+U0675,John Miller,18,Female,USA,2025-07-26 01:50:00,Family,Medium,2,True
+U0676,Hoang Nhu Hoa,24,Female,Viet Nam,2025-07-20 03:58:00,Relaxation,Medium,4,True
+U0677,Duong Hai Nam,20,Male,Viet Nam,2026-03-24 11:22:00,Luxury,High,7,True
+U0678,Bui Thi Anh,49,Female,Viet Nam,2025-09-20 22:12:00,Adventure,Low,13,True
+U0679,Sophie Martin,41,Female,South Korea,2026-05-29 15:23:00,Family,Medium,5,True
+U0680,Jennifer Kim,44,Male,France,2025-09-18 16:14:00,Culture/Historical,Low,4,True
+U0681,Ngo Huu Tung,39,Male,Viet Nam,2025-10-26 17:46:00,Backpacking,Low,12,True
+U0682,Hoang Duy Bao,20,Male,Viet Nam,2026-01-14 07:35:00,Culture/Historical,Medium,5,True
+U0683,Barbara Suzuki,26,Male,France,2025-08-31 00:43:00,Culture/Historical,Medium,5,True
+U0684,Le Truc Linh,36,Female,Viet Nam,2026-05-22 18:06:00,Family,High,3,True
+U0685,Bui Truc Lan,19,Other,Viet Nam,2025-09-28 13:46:00,Culture/Historical,Medium,6,True
+U0686,Jennifer Suzuki,39,Female,USA,2026-01-30 21:38:00,Culture/Historical,High,6,True
+U0687,Hoang Khanh Huong,29,Female,Viet Nam,2025-09-27 20:08:00,Backpacking,Low,5,False
+U0688,Le Truc Thao,28,Female,Viet Nam,2026-05-14 10:09:00,Adventure,Medium,6,True
+U0689,Vo Khanh Cuc,39,Female,Viet Nam,2025-10-29 21:31:00,Culture/Historical,Medium,6,True
+U0690,Ngo Thi Linh,36,Female,Viet Nam,2025-07-31 12:28:00,Adventure,High,12,True
+U0691,Duong Tuan Tung,28,Male,Viet Nam,2025-08-24 15:27:00,Luxury,High,6,True
+U0692,Do Thanh Huy,43,Male,Viet Nam,2026-03-04 18:30:00,Culture/Historical,Medium,3,True
+U0693,Vu Cong Huy,21,Male,Viet Nam,2025-11-28 09:20:00,Backpacking,Low,5,True
+U0694,Sarah Smith,38,Male,USA,2026-04-17 10:24:00,Backpacking,Low,10,True
+U0695,Pham Duy Nam,37,Male,Viet Nam,2026-03-31 02:58:00,Family,Medium,4,True
+U0696,Nguyen Xuan Huy,28,Male,Viet Nam,2026-01-03 18:32:00,Culture/Historical,Medium,5,True
+U0697,Vu Minh Thao,35,Other,Viet Nam,2025-07-21 15:06:00,Family,Medium,4,True
+U0698,Le Cat Vy,19,Female,Viet Nam,2025-12-04 13:12:00,Culture/Historical,Medium,2,False
+U0699,Nguyen Phuong Thao,41,Female,Viet Nam,2025-12-23 07:39:00,Family,High,6,True
+U0700,Ngo Thanh Son,30,Male,Viet Nam,2026-01-05 06:22:00,Backpacking,Low,9,True
+U0701,Phan Anh Trung,26,Male,Viet Nam,2025-12-23 08:39:00,Relaxation,Medium,7,True
+U0702,Duong Minh Lam,42,Male,Viet Nam,2026-02-11 06:42:00,Family,High,4,False
+U0703,Ngo Truc Thao,24,Female,Viet Nam,2026-04-17 01:33:00,Luxury,High,4,True
+U0704,Jean Kim,18,Female,USA,2025-12-28 10:55:00,Backpacking,Low,11,True
+U0705,Do Cong Dung,18,Male,Viet Nam,2025-12-25 07:07:00,Luxury,High,4,False
+U0706,Vu Quoc Huy,38,Male,Viet Nam,2025-06-19 06:10:00,Adventure,Low,9,False
+U0707,Do Van Tung,19,Male,Viet Nam,2026-02-04 00:03:00,Backpacking,Low,9,False
+U0708,Phan Nhu Ha,49,Female,Viet Nam,2025-07-17 12:53:00,Family,High,3,True
+U0709,Susan Dubois,18,Female,South Korea,2026-02-24 08:31:00,Backpacking,Low,6,True
+U0710,Min-ji Takahashi,48,Male,France,2025-09-29 13:13:00,Luxury,Medium,4,False
+U0711,Bui Van Son,34,Male,Viet Nam,2026-03-01 11:44:00,Backpacking,Low,11,True
+U0712,Ngo Minh Khanh,31,Male,Viet Nam,2026-01-30 22:23:00,Adventure,Low,14,True
+U0713,John Davis,26,Female,USA,2025-10-08 17:24:00,Adventure,Medium,10,False
+U0714,Pham Khanh Linh,35,Female,Viet Nam,2025-06-05 12:59:00,Adventure,Low,8,True
+U0715,Vo Nhu Trang,31,Female,Viet Nam,2026-04-26 13:50:00,Backpacking,Low,6,False
+U0716,Vu Minh Yen,43,Female,Viet Nam,2026-01-03 03:52:00,Luxury,High,7,True
+U0717,Dang Hai Khanh,33,Male,Viet Nam,2026-01-19 22:01:00,Backpacking,Low,7,True
+U0718,Vu Thu Ha,33,Female,Viet Nam,2025-11-04 10:36:00,Backpacking,Low,8,True
+U0719,Ji-woo Jones,28,Other,France,2026-04-01 21:26:00,Adventure,Medium,7,True
+U0720,Seo-jun Martinez,31,Female,France,2025-09-10 02:26:00,Adventure,Low,11,False
+U0721,Nguyen Anh Ha,35,Female,Viet Nam,2026-04-10 20:14:00,Backpacking,High,8,True
+U0722,Bui Truc Thao,18,Female,Viet Nam,2025-10-12 04:05:00,Adventure,Low,14,True
+U0723,Ly Khanh Quynh,18,Female,Viet Nam,2026-05-11 15:07:00,Luxury,High,4,False
+U0724,Ho Khanh Linh,39,Female,Viet Nam,2025-08-06 13:54:00,Luxury,High,5,True
+U0725,Ngo Minh Hung,33,Male,Viet Nam,2025-10-27 08:15:00,Relaxation,Medium,4,True
+U0726,Nguyen Khanh Mai,30,Female,Viet Nam,2025-11-13 22:25:00,Family,Medium,5,True
+U0727,Tran Anh Hoa,32,Female,Viet Nam,2025-06-27 10:59:00,Luxury,High,5,False
+U0728,Karen Johnson,35,Female,Australia,2025-06-03 08:32:00,Relaxation,Medium,6,True
+U0729,John Dubois,26,Male,Japan,2025-08-31 08:10:00,Relaxation,Medium,5,False
+U0730,Dang Quoc Tuan,24,Male,Viet Nam,2025-10-12 03:20:00,Backpacking,High,12,False
+U0731,Ly Truc Vy,33,Female,Viet Nam,2025-10-13 19:53:00,Adventure,Medium,11,False
+U0732,Ji-woo Jones,22,Male,Australia,2026-03-12 21:40:00,Culture/Historical,Low,3,True
+U0733,Le Hai Son,36,Male,Viet Nam,2026-01-10 03:57:00,Culture/Historical,Low,4,False
+U0734,Tran My Quynh,18,Female,Viet Nam,2025-08-15 03:22:00,Backpacking,Low,9,True
+U0735,Hoang Cong Huy,42,Male,Viet Nam,2026-03-27 06:37:00,Backpacking,Low,14,True
+U0736,Vo Nhu Lan,36,Female,Viet Nam,2025-11-16 00:18:00,Family,High,2,True
+U0737,Pierre Sato,34,Female,South Korea,2025-08-18 00:05:00,Culture/Historical,High,5,True
+U0738,Nguyen Minh Hoa,41,Female,Viet Nam,2026-05-02 19:28:00,Adventure,High,14,True
+U0739,Charles Sato,48,Female,USA,2025-06-29 23:04:00,Relaxation,High,6,True
+U0740,Ngo Quoc Cuong,42,Male,Viet Nam,2025-06-11 06:10:00,Culture/Historical,Medium,4,True
+U0741,Hoang Khanh Chi,18,Female,Viet Nam,2026-01-08 23:51:00,Adventure,High,14,True
+U0742,Susan Miller,19,Female,France,2026-02-06 14:56:00,Culture/Historical,Medium,6,True
+U0743,Phan Cong Tuan,25,Male,Viet Nam,2026-01-09 20:27:00,Backpacking,Low,10,False
+U0744,Ho Ngoc Huong,32,Female,Viet Nam,2026-02-25 20:41:00,Relaxation,Low,6,True
+U0745,Le Ngoc Ha,37,Female,Viet Nam,2025-11-01 07:33:00,Culture/Historical,Medium,2,True
+U0746,Dang Truc Linh,24,Female,Viet Nam,2025-07-19 14:42:00,Family,Medium,4,True
+U0747,James Brown,33,Female,USA,2026-05-05 14:11:00,Luxury,High,3,True
+U0748,Bui My Huong,24,Female,Viet Nam,2026-05-10 14:39:00,Adventure,Low,7,True
+U0749,Thomas Brown,25,Male,Australia,2026-01-09 17:01:00,Backpacking,Low,5,True
+U0750,Duong Duy Tung,18,Male,Viet Nam,2026-04-05 23:31:00,Adventure,Medium,14,True
+U0751,Vu Phuong Lan,22,Female,Viet Nam,2025-08-04 04:00:00,Luxury,Medium,3,True
+U0752,Vo Duy Tuan,18,Male,Viet Nam,2026-04-29 07:27:00,Family,High,6,True
+U0753,Vo Quoc Hung,22,Male,Viet Nam,2025-07-30 05:57:00,Luxury,High,6,False
+U0754,Sarah Davis,42,Male,Japan,2025-09-12 09:36:00,Culture/Historical,Low,2,True
+U0755,Vu Khanh Yen,22,Female,Viet Nam,2026-03-24 19:46:00,Relaxation,High,3,True
+U0756,Bui Nhu Quynh,58,Female,Viet Nam,2026-02-05 07:45:00,Backpacking,Low,11,True
+U0757,Do Truc Huong,36,Female,Viet Nam,2025-07-30 15:39:00,Family,Medium,5,True
+U0758,Phan Xuan Dung,33,Male,Viet Nam,2026-02-15 07:37:00,Family,Medium,6,False
+U0759,Ly Phuong Yen,23,Female,Viet Nam,2026-05-31 12:26:00,Family,Medium,4,False
+U0760,Karen Miller,39,Female,France,2025-10-23 22:47:00,Backpacking,Low,7,True
+U0761,Ngo Quoc Son,26,Male,Viet Nam,2025-11-03 07:13:00,Relaxation,Low,3,True
+U0762,Le Thanh Hung,33,Male,Viet Nam,2025-07-03 10:27:00,Backpacking,Low,6,True
+U0763,Seo-jun Suzuki,57,Female,Australia,2025-06-24 17:17:00,Luxury,High,7,True
+U0764,Vo Xuan Bao,31,Male,Viet Nam,2025-07-27 03:50:00,Relaxation,High,3,False
+U0765,Do Duc Bao,43,Male,Viet Nam,2025-09-14 11:10:00,Family,Medium,5,True
+U0766,William Suzuki,24,Female,Japan,2025-11-19 04:07:00,Luxury,High,6,True
+U0767,Barbara Sato,31,Male,France,2025-10-25 16:10:00,Backpacking,Low,11,True
+U0768,Ngo Anh Linh,49,Female,Viet Nam,2025-09-25 04:51:00,Culture/Historical,Medium,5,False
+U0769,Do Minh Hoa,25,Female,Viet Nam,2026-01-13 04:49:00,Backpacking,Low,13,False
+U0770,Ngo Minh Trung,50,Male,Viet Nam,2025-07-02 12:48:00,Backpacking,Low,7,False
+U0771,Ho Duy Hai,39,Male,Viet Nam,2025-10-30 13:25:00,Family,High,4,True
+U0772,Duong Tuan Hai,26,Male,Viet Nam,2026-04-09 04:44:00,Culture/Historical,Medium,3,False
+U0773,Vo My Trang,38,Female,Viet Nam,2026-04-29 12:49:00,Luxury,High,3,True
+U0774,Ho Minh Hai,41,Male,Viet Nam,2026-03-04 09:13:00,Backpacking,Low,9,True
+U0775,Nguyen Anh Thao,38,Female,Viet Nam,2025-10-11 07:53:00,Adventure,Medium,13,True
+U0776,Do Thanh Khanh,18,Male,Viet Nam,2025-08-03 01:48:00,Family,High,5,True
+U0777,Pham My Thao,24,Female,Viet Nam,2026-03-17 22:57:00,Family,Medium,6,True
+U0778,Duong Hai Lam,29,Male,Viet Nam,2026-05-11 04:45:00,Culture/Historical,Medium,3,True
+U0779,Ngo Minh Huong,31,Female,Viet Nam,2025-07-21 04:45:00,Culture/Historical,High,2,True
+U0780,Pham Xuan Cuong,38,Male,Viet Nam,2025-12-07 21:33:00,Culture/Historical,Medium,6,True
+U0781,Do Truc Huong,33,Female,Viet Nam,2026-05-19 15:46:00,Culture/Historical,High,3,True
+U0782,Ho Anh Quynh,18,Female,Viet Nam,2026-02-26 03:44:00,Luxury,High,3,True
+U0783,Tran Cat Quynh,35,Female,Viet Nam,2025-12-27 03:07:00,Adventure,Medium,5,True
+U0784,Phan Tuan Nam,38,Male,Viet Nam,2026-02-04 00:50:00,Luxury,Medium,7,True
+U0785,Hoang Thu Mai,37,Female,Viet Nam,2026-02-06 00:07:00,Relaxation,Medium,3,True
+U0786,Ly Minh Chi,42,Female,Viet Nam,2025-12-11 15:53:00,Family,High,3,True
+U0787,Vo Nhu Huong,40,Female,Viet Nam,2025-08-16 23:20:00,Backpacking,Medium,14,True
+U0788,Dang Van Huy,36,Male,Viet Nam,2026-01-13 23:17:00,Family,Medium,3,True
+U0789,Yuki Martinez,31,Female,USA,2026-03-15 20:07:00,Family,Medium,3,False
+U0790,Sarah Martin,18,Female,USA,2025-09-05 15:32:00,Backpacking,Low,13,True
+U0791,Joseph Dubois,36,Male,USA,2026-01-14 02:51:00,Relaxation,High,6,True
+U0792,Mary Kim,34,Female,South Korea,2025-09-01 13:01:00,Relaxation,Medium,5,True
+U0793,Hoang Ngoc Mai,34,Other,Viet Nam,2025-10-09 02:09:00,Adventure,High,7,True
+U0794,Ho Thi Vy,19,Other,Viet Nam,2025-12-17 03:20:00,Luxury,High,5,True
+U0795,John Miller,21,Female,Japan,2025-10-01 19:37:00,Luxury,High,7,True
+U0796,Vo Thanh Trung,42,Male,Viet Nam,2025-07-04 15:01:00,Culture/Historical,Medium,2,True
+U0797,Pham Anh Ha,31,Other,Viet Nam,2025-08-04 09:36:00,Culture/Historical,Medium,6,True
+U0798,Le Thu Anh,38,Other,Viet Nam,2026-01-03 17:28:00,Backpacking,Low,12,False
+U0799,Le Thi Hoa,32,Female,Viet Nam,2026-02-02 08:38:00,Adventure,Medium,11,False
+U0800,Duong Anh Vy,32,Female,Viet Nam,2025-06-24 05:47:00,Relaxation,Medium,5,True
+U0801,Min-ji Bernard,41,Female,France,2025-10-22 13:13:00,Relaxation,Medium,5,False
+U0802,Ngo My Huong,26,Female,Viet Nam,2025-10-18 07:42:00,Adventure,Low,12,False
+U0803,William Smith,32,Male,South Korea,2026-04-08 15:00:00,Backpacking,Low,11,True
+U0804,Vu Anh Lan,27,Female,Viet Nam,2026-04-29 20:04:00,Relaxation,Low,6,True
+U0805,Pierre Taylor,27,Male,France,2025-12-01 12:11:00,Family,High,2,True
+U0806,Pham My Hoa,28,Female,Viet Nam,2025-10-22 21:58:00,Family,Medium,2,False
+U0807,Joseph Davis,34,Female,USA,2026-02-08 11:02:00,Adventure,Medium,14,True
+U0808,Jennifer Brown,27,Male,France,2025-10-21 18:32:00,Culture/Historical,Low,3,True
+U0809,Bui Ngoc Lan,44,Female,Viet Nam,2026-03-29 04:47:00,Backpacking,Low,14,False
+U0810,Hoang Thu Quynh,23,Female,Viet Nam,2026-05-14 00:44:00,Family,Medium,4,True
+U0811,Vu Nhu Ha,30,Female,Viet Nam,2026-04-29 01:54:00,Adventure,Medium,11,True
+U0812,Phan Anh Chi,27,Female,Viet Nam,2025-06-23 23:14:00,Backpacking,Low,11,True
+U0813,Phan Duc Lam,46,Male,Viet Nam,2025-06-13 23:14:00,Family,Medium,2,False
+U0814,Tran Duy Huy,33,Male,Viet Nam,2025-07-20 00:30:00,Culture/Historical,High,6,False
+U0815,Joseph Brown,42,Female,France,2026-01-29 07:21:00,Backpacking,Medium,13,False
+U0816,Karen Lee,18,Female,USA,2025-07-19 20:28:00,Relaxation,Medium,3,False
+U0817,Yuki Williams,34,Male,Japan,2025-08-05 01:58:00,Culture/Historical,Low,6,True
+U0818,Dang Van Nam,40,Male,Viet Nam,2025-12-13 12:06:00,Relaxation,High,4,False
+U0819,Vo Truc Huong,32,Female,Viet Nam,2026-01-06 19:39:00,Backpacking,Low,5,True
+U0820,Tran Van Lam,42,Male,Viet Nam,2025-07-05 18:50:00,Luxury,High,4,True
+U0821,Ho Cong Son,26,Male,Viet Nam,2025-09-04 07:08:00,Backpacking,Low,9,True
+U0822,Phan Phuong Thao,46,Female,Viet Nam,2026-03-05 04:09:00,Culture/Historical,Medium,4,True
+U0823,Do Nhu Mai,54,Other,Viet Nam,2025-06-30 07:32:00,Relaxation,High,6,True
+U0824,Pham Hong Trang,28,Other,Viet Nam,2025-09-05 21:30:00,Family,Medium,5,True
+U0825,Phan Cong Nam,27,Male,Viet Nam,2026-01-01 10:10:00,Backpacking,Low,5,True
+U0826,Ho Thu Huong,46,Female,Viet Nam,2026-04-16 06:15:00,Culture/Historical,Medium,4,False
+U0827,Duong Van Khanh,47,Male,Viet Nam,2025-06-06 02:22:00,Backpacking,Low,7,True
+U0828,Ngo Huu Hung,26,Male,Viet Nam,2025-06-16 06:12:00,Adventure,Low,9,True
+U0829,Le Anh Hung,27,Male,Viet Nam,2025-08-30 08:58:00,Backpacking,Low,7,True
+U0830,Ly Thu Vy,29,Female,Viet Nam,2026-01-20 07:23:00,Adventure,Medium,13,False
+U0831,Charlotte Williams,18,Other,Japan,2025-07-31 04:56:00,Luxury,High,4,True
+U0832,Vu Nhu Cuc,22,Female,Viet Nam,2025-06-24 19:37:00,Luxury,High,5,False
+U0833,Ngo Tuan Bao,21,Male,Viet Nam,2025-08-04 16:37:00,Culture/Historical,Medium,2,False
+U0834,Le Anh Linh,24,Female,Viet Nam,2026-04-27 16:23:00,Culture/Historical,Medium,3,True
+U0835,Ho Xuan Son,31,Male,Viet Nam,2025-10-16 18:25:00,Family,High,6,True
+U0836,Elizabeth Davis,34,Male,Japan,2025-12-20 06:19:00,Culture/Historical,High,6,True
+U0837,Tran Ngoc Chi,47,Female,Viet Nam,2025-07-14 09:28:00,Relaxation,Medium,7,True
+U0838,Vo Khanh Linh,22,Female,Viet Nam,2025-12-27 11:51:00,Culture/Historical,Medium,5,True
+U0839,Tran Huu Cuong,41,Male,Viet Nam,2025-10-29 16:32:00,Relaxation,High,5,False
+U0840,Nguyen Thanh Dung,29,Male,Viet Nam,2025-11-18 06:43:00,Adventure,Low,9,True
+U0841,Duong My Yen,31,Female,Viet Nam,2026-03-06 08:00:00,Adventure,Low,10,False
+U0842,Bui Duy Hung,38,Male,Viet Nam,2026-01-28 20:32:00,Luxury,High,4,True
+U0843,Dang Cat Chi,20,Female,Viet Nam,2026-03-10 14:46:00,Culture/Historical,Medium,2,True
+U0844,Yuki Kim,35,Male,USA,2025-09-16 14:28:00,Relaxation,Low,4,True
+U0845,James Park,33,Male,South Korea,2026-05-04 11:21:00,Luxury,High,6,True
+U0846,Bui Thi Thao,36,Female,Viet Nam,2025-06-17 04:09:00,Adventure,Medium,14,False
+U0847,Vu Thu Linh,34,Female,Viet Nam,2025-07-03 17:24:00,Luxury,High,5,True
+U0848,Robert Garcia,56,Male,Japan,2025-07-24 21:35:00,Luxury,Medium,7,True
+U0849,Vu Tuan Dung,25,Male,Viet Nam,2025-09-28 09:42:00,Relaxation,Low,3,True
+U0850,Ly Quoc Trung,26,Male,Viet Nam,2025-08-20 03:08:00,Relaxation,Medium,3,True
+U0851,Duong Thu Vy,25,Female,Viet Nam,2026-01-08 22:42:00,Culture/Historical,Low,6,False
+U0852,Do Khanh Vy,26,Female,Viet Nam,2025-09-12 00:09:00,Culture/Historical,Low,5,True
+U0853,Bui Xuan Son,25,Male,Viet Nam,2026-01-23 18:02:00,Family,Medium,5,True
+U0854,Jennifer Taylor,43,Female,USA,2025-08-29 13:15:00,Luxury,High,6,True
+U0855,Bui Hong Linh,46,Female,Viet Nam,2026-05-24 01:15:00,Luxury,High,7,True
+U0856,Ho Thu Huong,26,Female,Viet Nam,2025-12-28 17:07:00,Adventure,Low,6,True
+U0857,Le Phuong Cuc,23,Female,Viet Nam,2026-02-15 01:29:00,Backpacking,Low,12,True
+U0858,Jennifer Johnson,36,Female,Japan,2025-06-06 08:07:00,Family,High,4,True
+U0859,Tran Thanh Huy,26,Male,Viet Nam,2025-10-03 22:28:00,Luxury,High,5,False
+U0860,Tran Minh Nam,38,Male,Viet Nam,2025-08-03 17:47:00,Culture/Historical,Low,2,True
+U0861,Pham Hai Hung,34,Male,Viet Nam,2026-05-12 17:13:00,Culture/Historical,Medium,6,True
+U0862,Jennifer Martinez,18,Female,Japan,2026-01-14 01:38:00,Backpacking,Low,11,True
+U0863,Pham Thu Lan,47,Female,Viet Nam,2025-06-09 13:01:00,Backpacking,Low,8,True
+U0864,Michael Garcia,49,Male,South Korea,2025-08-25 01:26:00,Relaxation,Medium,5,True
+U0865,Ly Anh Linh,25,Female,Viet Nam,2026-01-06 03:14:00,Luxury,Medium,5,True
+U0866,Vu Anh Son,28,Male,Viet Nam,2025-09-21 02:42:00,Adventure,Medium,10,True
+U0867,Ngo Cat Huong,34,Female,Viet Nam,2025-07-23 22:34:00,Relaxation,Medium,3,True
+U0868,Do My Mai,35,Other,Viet Nam,2025-11-18 05:40:00,Family,Medium,5,True
+U0869,Elizabeth Takahashi,38,Male,South Korea,2026-02-17 20:47:00,Luxury,High,3,True
+U0870,Charles Davis,52,Female,Japan,2026-01-06 07:39:00,Backpacking,Low,10,True
+U0871,Do Van Dung,30,Male,Viet Nam,2026-04-03 14:47:00,Adventure,Low,10,True
+U0872,Vu Nhu Quynh,24,Female,Viet Nam,2025-10-26 00:14:00,Family,Medium,3,True
+U0873,Joseph Davis,18,Male,South Korea,2026-04-08 12:33:00,Adventure,Low,5,True
+U0874,John Jones,24,Female,South Korea,2025-09-13 04:05:00,Luxury,High,4,True
+U0875,Hoang Minh Tung,31,Male,Viet Nam,2025-09-10 07:27:00,Luxury,High,5,True
+U0876,Hoang Xuan Cuong,49,Male,Viet Nam,2025-12-02 12:24:00,Luxury,High,6,True
+U0877,Pierre Park,26,Female,USA,2025-06-11 12:27:00,Backpacking,Medium,9,True
+U0878,Hoang Quoc Son,34,Male,Viet Nam,2025-11-04 14:18:00,Culture/Historical,Medium,5,True
+U0879,Le Anh Hung,31,Male,Viet Nam,2025-06-07 16:46:00,Family,Medium,5,False
+U0880,Patricia Takahashi,43,Female,Australia,2026-02-06 09:41:00,Relaxation,Low,3,False
+U0881,David Miller,57,Male,South Korea,2026-01-10 08:49:00,Family,Medium,5,True
+U0882,Vu Quoc Tung,26,Male,Viet Nam,2025-10-05 07:30:00,Backpacking,Medium,10,True
+U0883,Do Ngoc Vy,27,Female,Viet Nam,2026-04-06 14:43:00,Luxury,High,7,True
+U0884,Tran Hong Ha,42,Female,Viet Nam,2026-05-31 12:25:00,Family,Medium,2,True
+U0885,Duong Quoc Nam,38,Male,Viet Nam,2026-05-21 09:32:00,Relaxation,High,6,True
+U0886,Sophie Williams,50,Female,USA,2025-07-26 20:36:00,Adventure,Medium,9,True
+U0887,Hoang Thi Mai,37,Female,Viet Nam,2026-02-07 00:06:00,Backpacking,Medium,11,True
+U0888,Le Ngoc Trang,28,Female,Viet Nam,2025-09-04 22:08:00,Luxury,High,7,False
+U0889,David Miller,37,Male,France,2025-07-01 23:11:00,Luxury,High,6,True
+U0890,Do Ngoc Lan,43,Female,Viet Nam,2025-10-29 02:24:00,Backpacking,Low,10,True
+U0891,Ngo Duc Hung,40,Male,Viet Nam,2025-07-02 08:48:00,Backpacking,Low,5,True
+U0892,Bui Anh Chi,37,Female,Viet Nam,2025-10-15 15:30:00,Adventure,Medium,10,True
+U0893,Pierre Davis,42,Female,Australia,2025-12-02 21:25:00,Culture/Historical,Medium,4,False
+U0894,Duong My Linh,43,Female,Viet Nam,2025-08-11 00:38:00,Backpacking,Medium,9,False
+U0895,Vo Cat Ha,45,Female,Viet Nam,2026-05-04 15:32:00,Culture/Historical,Medium,2,False
+U0896,James Suzuki,38,Female,France,2025-06-24 23:20:00,Family,Medium,6,True
+U0897,Patricia Kim,30,Female,USA,2026-01-30 21:54:00,Family,High,5,True
+U0898,Dang Cong Phong,33,Male,Viet Nam,2026-02-14 01:08:00,Culture/Historical,Medium,4,False
+U0899,Elizabeth Garcia,44,Other,Australia,2026-01-15 03:30:00,Family,Medium,3,True
+U0900,Tran Hong Linh,23,Female,Viet Nam,2025-06-15 05:59:00,Adventure,High,9,True
+U0901,Ly Duy Cuong,35,Male,Viet Nam,2026-05-07 04:59:00,Relaxation,High,6,True
+U0902,Sophie Dubois,28,Female,Japan,2026-04-04 02:41:00,Adventure,Medium,11,True
+U0903,Linda Davis,32,Female,Australia,2025-09-23 08:07:00,Adventure,Low,6,True
+U0904,Tran Cat Trang,44,Female,Viet Nam,2025-08-05 10:24:00,Relaxation,High,5,True
+U0905,Linda Sato,33,Female,France,2025-12-04 21:59:00,Luxury,High,7,True
+U0906,Duong Xuan Khanh,32,Male,Viet Nam,2025-08-14 09:53:00,Luxury,High,6,True
+U0907,Duong Hai Hung,18,Male,Viet Nam,2026-04-03 10:19:00,Relaxation,High,3,True
+U0908,Do Thu Huong,39,Female,Viet Nam,2025-10-28 22:24:00,Backpacking,High,10,True
+U0909,Sophie Davis,38,Female,France,2026-05-25 23:03:00,Luxury,High,6,True
+U0910,David Smith,53,Female,South Korea,2026-03-08 12:21:00,Culture/Historical,Medium,4,True
+U0911,Hoang Tuan Tung,28,Male,Viet Nam,2025-09-08 22:54:00,Relaxation,Medium,4,True
+U0912,John Martinez,34,Female,Japan,2026-01-21 20:10:00,Relaxation,Medium,6,True
+U0913,Ho Anh Tung,34,Male,Viet Nam,2026-04-30 00:23:00,Family,High,2,True
+U0914,Vu Nhu Quynh,47,Other,Viet Nam,2025-08-26 01:06:00,Adventure,High,7,False
+U0915,Phan Cong Trung,31,Male,Viet Nam,2025-08-16 20:46:00,Culture/Historical,Medium,2,True
+U0916,Le Nhu Yen,34,Female,Viet Nam,2025-12-10 22:50:00,Family,Medium,5,False
+U0917,Do Khanh Trang,38,Female,Viet Nam,2025-06-06 03:07:00,Backpacking,Low,13,True
+U0918,Barbara Rodriguez,33,Female,Australia,2026-05-22 23:06:00,Relaxation,Medium,6,False
+U0919,Le Hong Trang,27,Female,Viet Nam,2025-07-03 22:58:00,Relaxation,Medium,3,True
+U0920,Susan Park,33,Female,USA,2025-07-03 16:53:00,Relaxation,Medium,3,True
+U0921,Tran Minh Bao,42,Male,Viet Nam,2026-04-03 22:11:00,Backpacking,Low,10,True
+U0922,Le Duc Hai,21,Male,Viet Nam,2025-10-10 01:05:00,Backpacking,Low,10,False
+U0923,Hiroshi Smith,33,Male,Australia,2025-10-06 09:02:00,Relaxation,High,5,True
+U0924,Ho Huu Hai,24,Male,Viet Nam,2025-11-28 19:34:00,Relaxation,Medium,3,True
+U0925,Le Tuan Bao,43,Male,Viet Nam,2025-09-19 04:38:00,Relaxation,Medium,5,True
+U0926,Dang Phuong Vy,18,Female,Viet Nam,2025-12-13 20:57:00,Luxury,High,3,False
+U0927,William Bernard,26,Female,South Korea,2025-09-13 02:40:00,Family,Medium,3,True
+U0928,Dang Cat Mai,35,Female,Viet Nam,2026-01-01 04:20:00,Culture/Historical,Medium,6,True
+U0929,Do Thanh Trung,47,Male,Viet Nam,2025-07-04 10:40:00,Backpacking,Low,10,True
+U0930,Thomas Smith,31,Male,USA,2025-07-21 12:14:00,Culture/Historical,High,2,True
+U0931,Duong Khanh Lan,26,Female,Viet Nam,2026-02-26 11:44:00,Relaxation,High,7,True
+U0932,Phan Quoc Tuan,50,Male,Viet Nam,2025-11-24 23:43:00,Relaxation,Medium,6,True
+U0933,Dang Hai Tuan,18,Male,Viet Nam,2026-05-03 04:09:00,Culture/Historical,Medium,4,True
+U0934,Yuki Davis,18,Female,Australia,2026-05-14 19:26:00,Family,Medium,5,False
+U0935,Hoang Truc Anh,36,Female,Viet Nam,2025-09-26 09:40:00,Backpacking,Medium,11,True
+U0936,Tran My Cuc,26,Female,Viet Nam,2025-07-18 05:36:00,Backpacking,Low,9,True
+U0937,Linda Martin,21,Female,Japan,2025-08-09 15:31:00,Relaxation,High,7,True
+U0938,Ly Hai Hung,39,Male,Viet Nam,2026-01-04 22:34:00,Family,Medium,6,True
+U0939,Le Duy Phong,34,Male,Viet Nam,2026-02-24 07:11:00,Backpacking,Low,7,True
+U0940,Vu Ngoc Trang,26,Female,Viet Nam,2025-07-28 10:58:00,Family,Medium,6,False
+U0941,Vo Phuong Vy,19,Female,Viet Nam,2025-09-18 00:47:00,Family,Medium,3,False
+U0942,Susan Johnson,40,Female,South Korea,2026-01-24 19:54:00,Culture/Historical,Low,2,True
+U0943,Nguyen Huu Tung,38,Male,Viet Nam,2025-09-04 12:22:00,Backpacking,Low,12,True
+U0944,Linda Brown,31,Female,Japan,2026-02-05 00:09:00,Family,Medium,5,True
+U0945,Le Thanh Phong,50,Male,Viet Nam,2025-10-16 03:28:00,Family,High,3,True
+U0946,Ly My Cuc,21,Female,Viet Nam,2025-07-27 06:18:00,Backpacking,Low,11,True
+U0947,Pham Khanh Ha,18,Female,Viet Nam,2025-10-15 03:26:00,Culture/Historical,Medium,3,True
+U0948,Susan Takahashi,25,Female,Japan,2025-08-07 03:06:00,Backpacking,Low,10,True
+U0949,Do Minh Linh,31,Female,Viet Nam,2026-04-02 23:00:00,Culture/Historical,Medium,4,True
+U0950,Le My Anh,34,Female,Viet Nam,2025-09-04 07:17:00,Backpacking,Medium,8,True
+U0951,Ngo Duc Tung,29,Male,Viet Nam,2026-02-13 19:11:00,Luxury,High,7,True
+U0952,Vu Van Nam,35,Male,Viet Nam,2025-09-07 04:27:00,Backpacking,Low,6,False
+U0953,Ho Duy Dung,19,Male,Viet Nam,2025-09-22 10:27:00,Culture/Historical,Low,5,True
+U0954,Hoang Huu Tung,46,Male,Viet Nam,2026-01-01 07:20:00,Backpacking,Low,5,True
+U0955,Vo Phuong Thao,31,Female,Viet Nam,2025-07-22 13:11:00,Adventure,High,10,True
+U0956,Do Thanh Phong,43,Male,Viet Nam,2025-08-06 10:23:00,Family,High,6,True
+U0957,Pham Cong Trung,35,Male,Viet Nam,2025-07-15 03:08:00,Family,High,2,True
+U0958,Pierre Miller,36,Other,Japan,2025-09-07 22:28:00,Backpacking,Low,13,True
+U0959,Ngo Anh Hai,37,Male,Viet Nam,2025-08-18 01:08:00,Luxury,High,5,False
+U0960,Jessica Suzuki,36,Female,France,2025-12-05 14:40:00,Family,Medium,5,True
+U0961,Susan Smith,38,Male,South Korea,2025-08-25 19:17:00,Family,High,4,True
+U0962,Yuki Miller,45,Female,USA,2025-12-21 15:43:00,Relaxation,High,3,True
+U0963,Ngo Truc Linh,33,Female,Viet Nam,2026-04-07 08:13:00,Luxury,Medium,7,True
+U0964,Seo-jun Martin,39,Female,Japan,2026-01-20 16:45:00,Family,Medium,4,False
+U0965,Tran Minh Dung,31,Male,Viet Nam,2025-06-24 17:15:00,Adventure,Low,7,False
+U0966,Duong Van Huy,46,Male,Viet Nam,2025-10-06 06:34:00,Backpacking,Low,10,True
+U0967,Ho Anh Vy,25,Other,Viet Nam,2025-08-08 13:57:00,Relaxation,Medium,3,True
+U0968,Ho Tuan Tuan,50,Male,Viet Nam,2025-10-10 00:34:00,Family,High,6,True
+U0969,Do Phuong Quynh,31,Female,Viet Nam,2026-04-17 20:38:00,Relaxation,Medium,6,True
+U0970,Ngo Quoc Tuan,18,Male,Viet Nam,2026-01-15 07:46:00,Family,Medium,3,False
+U0971,Le Minh Dung,33,Male,Viet Nam,2026-03-19 15:46:00,Luxury,High,3,True
+U0972,Hiroshi Taylor,25,Female,France,2025-09-05 02:09:00,Backpacking,Low,12,False
+U0973,Dang Ngoc Yen,40,Other,Viet Nam,2025-06-07 19:06:00,Culture/Historical,Medium,2,False
+U0974,Nguyen Ngoc Cuc,25,Female,Viet Nam,2025-07-13 08:09:00,Family,Medium,2,False
+U0975,Phan Hai Cuong,27,Male,Viet Nam,2025-09-12 04:30:00,Relaxation,High,4,True
+U0976,Dang Hai Nam,18,Male,Viet Nam,2026-04-18 17:07:00,Backpacking,Medium,6,True
+U0977,Linda Jones,27,Male,Japan,2025-06-01 07:01:00,Luxury,High,4,True
+U0978,Hiroshi Takahashi,18,Male,South Korea,2026-05-18 22:52:00,Backpacking,Low,6,True
+U0979,Tran Cat Trang,18,Female,Viet Nam,2025-07-31 11:59:00,Backpacking,Medium,14,True
+U0980,Le Duy Trung,39,Male,Viet Nam,2025-08-16 21:43:00,Adventure,Medium,9,True
+U0981,Hiroshi Suzuki,39,Male,South Korea,2025-10-14 22:51:00,Backpacking,Medium,7,True
+U0982,Vo Hai Phong,36,Male,Viet Nam,2026-01-31 02:07:00,Relaxation,Medium,5,True
+U0983,Ngo Quoc Khanh,22,Male,Viet Nam,2025-11-11 15:27:00,Culture/Historical,Medium,5,True
+U0984,Do Thu Linh,31,Female,Viet Nam,2026-01-01 17:31:00,Relaxation,Medium,7,True
+U0985,Ho Quoc Hai,31,Male,Viet Nam,2026-03-23 22:51:00,Family,Medium,2,True
+U0986,James Suzuki,20,Male,Australia,2026-03-13 15:08:00,Backpacking,Low,10,True
+U0987,William Martinez,47,Female,USA,2026-01-22 04:53:00,Relaxation,High,6,True
+U0988,Le Hong Yen,40,Female,Viet Nam,2026-05-27 04:24:00,Family,Low,5,True
+U0989,Tran Khanh Quynh,29,Female,Viet Nam,2026-04-01 05:01:00,Luxury,High,3,True
+U0990,Linda Jones,32,Male,France,2025-09-02 15:47:00,Luxury,High,5,True
+U0991,Do My Hoa,34,Female,Viet Nam,2025-10-25 03:09:00,Backpacking,Medium,5,True
+U0992,Vu Quoc Huy,18,Male,Viet Nam,2026-01-19 17:45:00,Adventure,High,13,True
+U0993,Thomas Williams,29,Male,South Korea,2026-02-23 12:08:00,Family,Medium,6,True
+U0994,Jessica Taylor,25,Male,France,2025-07-10 22:29:00,Culture/Historical,Medium,5,False
+U0995,Kenji Kim,21,Male,USA,2025-09-08 08:06:00,Backpacking,Low,14,True
+U0996,Le Thanh Cuong,29,Male,Viet Nam,2025-07-04 06:38:00,Backpacking,Medium,9,True
+U0997,Joseph Rodriguez,49,Male,South Korea,2025-07-14 18:36:00,Backpacking,Low,12,True
+U0998,James Suzuki,38,Male,South Korea,2025-10-23 12:32:00,Luxury,High,6,True
+U0999,Tran Minh Linh,26,Other,Viet Nam,2026-02-13 03:32:00,Luxury,Medium,6,True
+U1000,Le Ngoc Ha,37,Female,Viet Nam,2026-01-24 02:56:00,Family,Medium,3,False

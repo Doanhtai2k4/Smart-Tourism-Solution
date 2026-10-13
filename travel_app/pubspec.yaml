@@ -1,0 +1,106 @@
+name: travel_app
+description: "TripHero - AI-powered travel recommendation and itinerary app."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.10.7 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+
+  # Firebase & Authentication (Để any để Pub tự giải quyết xung đột)
+  firebase_core: any
+  firebase_auth: any
+  cloud_firestore: any
+  google_sign_in: ^6.2.1
+
+  # State Management
+  riverpod_annotation: ^4.0.0
+  flutter_riverpod: any
+
+  # UI & Media
+  cupertino_icons: ^1.0.8
+  flutter_svg: any
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  lottie: ^3.3.2
+  google_fonts: any
+
+  # Core & Network
+  dio: any
+  fpdart: ^1.1.1
+  go_router: any
+  google_generative_ai: ^0.4.7
+
+  # Utilities
+  flutter_dotenv: any
+  uuid: any
+  file_picker: any
+  shared_preferences: ^2.5.5
+  flutter_launcher_icons: ^0.14.4
+
+  # Maps
+  flutter_map: any
+  latlong2: ^0.9.1
+
+  riverpod: any
+  equatable: any
+  json_annotation: any
+  http: any
+  easy_debounce: ^2.0.3
+  url_launcher: ^6.3.2
+  geolocator: ^12.0.0
+  smooth_page_indicator: ^2.0.1
+  image_picker: ^1.2.2
+  firebase_storage: ^13.3.0
+  fl_chart: ^0.70.2
+  flutter_animate: ^4.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: any
+  mockito: any
+  firebase_auth_mocks: any
+  google_sign_in_mocks: any
+  fake_cloud_firestore: any
+  flutter_lints: ^6.0.0
+
+  # Code Generation
+  riverpod_generator: ^4.0.0
+  build_runner: any
+  custom_lint: any
+  riverpod_lint: any
+  freezed: any
+  freezed_annotation: any
+  json_serializable: any
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - .env
+    - assets/images/
+    - assets/icons/airplane.svg
+    - assets/json/PassportTravel.json
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+        - asset: assets/fonts/Poppins-Medium.ttf
+        - asset: assets/fonts/Poppins-Italic.ttf

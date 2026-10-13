@@ -1,0 +1,82 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper function to check if the authenticated user is an Admin
+    function isAdmin() {
+      return request.auth != null && 
+             get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin';
+    }
+
+    // 1. Công khai danh mục địa điểm và cho phép cập nhật số liệu
+    match /destinations/{destId} {
+      allow read: if true;
+      allow create, delete: if isAdmin();
+      
+      // Cho phép người dùng cập nhật các trường số liệu (Lượt xem, yêu thích, đánh giá)
+      // Hoặc cho phép Admin toàn quyền chỉnh sửa
+      allow update: if isAdmin() || (request.auth != null && 
+        (request.resource.data.diff(resource.data).affectedKeys()
+        .hasOnly(['viewCount', 'favoriteCount', 'ratingCount', 'averageRating', 'updatedAt', 'trendingScore'])));
+
+      // Sub-collection reviews bên trong mỗi địa điểm
+      match /reviews/{userId} {
+        allow read: if true;
+        allow write: if isAdmin() || (request.auth != null && request.auth.uid == userId);
+      }
+    }
+
+    // 2. Favorites (Sub-collection của User)
+    match /users/{userId}/favorites/{favId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // 3. Tracking (User Interactions)
+    match /user_interactions/{interactionId} {
+      allow create: if request.auth != null; 
+    }
+    
+    // 4. User Profiles
+    match /user_profiles/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // 5. User Profiles & General User Data
+    match /users/{userId} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null && (request.auth.uid == userId || isAdmin());
+      
+      // Sub-collection notifications
+      match /notifications/{notificationId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // 6. Trips (Chuyến đi)
+    match /trips/{tripId} {
+      allow read: if request.auth != null && (
+        resource.data.userId == request.auth.uid || 
+        (resource.data.member_ids != null && request.auth.uid in resource.data.member_ids) ||
+        (resource.data.memberIds != null && request.auth.uid in resource.data.memberIds) ||
+        isAdmin()
+      );
+      allow create: if request.auth != null && request.resource.data.userId == request.auth.uid;
+      allow update: if isAdmin() || (request.auth != null && (
+        request.resource.data.userId == request.auth.uid || 
+        (resource.data.userId != null && resource.data.userId == request.auth.uid) ||
+        (resource.data.member_ids != null && request.auth.uid in resource.data.member_ids) ||
+        (resource.data.memberIds != null && request.auth.uid in resource.data.memberIds)
+      ));
+      allow delete: if isAdmin() || (request.auth != null && resource.data.userId == request.auth.uid);
+      
+      // Cho phép truy cập vào các sub-collection (expenses, vault, info, chat)
+      match /{document=**} {
+        allow read, write: if isAdmin() || (request.auth != null && (
+          get(/databases/$(database)/documents/trips/$(tripId)).data.userId == request.auth.uid || 
+          (get(/databases/$(database)/documents/trips/$(tripId)).data.member_ids != null && request.auth.uid in get(/databases/$(database)/documents/trips/$(tripId)).data.member_ids) ||
+          (get(/databases/$(database)/documents/trips/$(tripId)).data.memberIds != null && request.auth.uid in get(/databases/$(database)/documents/trips/$(tripId)).data.memberIds)
+        ));
+      }
+    }
+  }
+}

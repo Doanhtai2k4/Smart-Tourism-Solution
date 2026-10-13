@@ -1,0 +1,96 @@
+name: Build iOS IPA (Unsigned)
+
+on:
+  workflow_dispatch: # Cho phép kích hoạt build thủ công từ giao diện GitHub Actions
+
+jobs:
+  build:
+    name: Build iOS App
+    runs-on: macos-15 # Sử dụng máy ảo macOS 15 để tương thích Xcode mới nhất (yêu cầu bởi Firebase SDK)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show Xcode Version
+        run: xcodebuild -version
+
+      - name: Set up Java 17
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu'
+          java-version: '17'
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+          # Flutter version sẽ tự động lấy bản stable mới nhất để tối ưu hóa tương thích
+
+      - name: Disable Swift Package Manager (Force CocoaPods)
+        run: flutter config --no-enable-swift-package-manager
+
+      - name: Create configuration files from Secrets
+        env:
+          ENV_FILE_CONTENT: ${{ secrets.ENV_FILE }}
+          GOOGLE_SERVICE_INFO_PLIST_CONTENT: ${{ secrets.GOOGLE_SERVICE_INFO_PLIST }}
+        run: |
+          # Tạo file .env từ biến môi trường
+          if [ -n "$ENV_FILE_CONTENT" ]; then
+            echo "$ENV_FILE_CONTENT" > .env
+            echo "✅ Đã tạo file .env thành công từ secrets."
+          else
+            # Nếu không có secrets, tạo file .env rỗng để tránh lỗi build
+            touch .env
+            echo "⚠️ Không tìm thấy ENV_FILE trong secrets, tạo file rỗng."
+          fi
+
+          # Tạo file GoogleService-Info.plist từ biến môi trường
+          if [ -n "$GOOGLE_SERVICE_INFO_PLIST_CONTENT" ]; then
+            echo "$GOOGLE_SERVICE_INFO_PLIST_CONTENT" > ios/Runner/GoogleService-Info.plist
+            echo "✅ Đã tạo GoogleService-Info.plist thành công từ secrets."
+          else
+            echo "⚠️ Không tìm thấy GOOGLE_SERVICE_INFO_PLIST trong secrets."
+          fi
+
+      - name: Regenerate Flutter project files
+        run: flutter create .
+
+      - name: Install dependencies
+        run: flutter pub upgrade
+
+      - name: Generate build runner files
+        run: dart run build_runner build --delete-conflicting-outputs
+
+      - name: Configure iOS project (Generate configuration files)
+        run: flutter build ios --config-only --no-codesign || true
+
+      - name: List iOS directory (Debug)
+        run: |
+          echo "=== ios/ directory ==="
+          ls -la ios
+          echo "=== ios/Flutter/ directory ==="
+          ls -la ios/Flutter || true
+
+      - name: Build iOS Application (No Sign)
+        run: |
+          flutter build ios --release --no-codesign > build_output.log 2>&1 || {
+            echo "❌ BUILD FAILED. Displaying compilation errors:"
+            grep -i -C 3 "error" build_output.log || tail -n 100 build_output.log
+            exit 1
+          }
+
+
+      - name: Package into IPA
+        run: |
+          mkdir -p Payload
+          mv build/ios/iphoneos/Runner.app Payload/
+          zip -r Runner.ipa Payload
+          echo "🎉 Đóng gói Runner.ipa thành công!"
+
+      - name: Upload IPA Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: TripHero-iOS-Unsigned
+          path: Runner.ipa
+          retention-days: 7 # Lưu giữ file build trong 7 ngày

@@ -1,0 +1,352 @@
+[
+  {
+    "Test_Run_ID": "RUN_01",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.51,
+    "Firestore_Sync_Latency_WiFi_ms": 196,
+    "Firestore_Sync_Latency_4G_LTE_ms": 367,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_02",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.76,
+    "Firestore_Sync_Latency_WiFi_ms": 196,
+    "Firestore_Sync_Latency_4G_LTE_ms": 357,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_03",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.49,
+    "Firestore_Sync_Latency_WiFi_ms": 216,
+    "Firestore_Sync_Latency_4G_LTE_ms": 358,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_04",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.93,
+    "Firestore_Sync_Latency_WiFi_ms": 227,
+    "Firestore_Sync_Latency_4G_LTE_ms": 345,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_05",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.58,
+    "Firestore_Sync_Latency_WiFi_ms": 218,
+    "Firestore_Sync_Latency_4G_LTE_ms": 357,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_06",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.52,
+    "Firestore_Sync_Latency_WiFi_ms": 231,
+    "Firestore_Sync_Latency_4G_LTE_ms": 385,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_07",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.7,
+    "Firestore_Sync_Latency_WiFi_ms": 224,
+    "Firestore_Sync_Latency_4G_LTE_ms": 404,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_08",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.55,
+    "Firestore_Sync_Latency_WiFi_ms": 189,
+    "Firestore_Sync_Latency_4G_LTE_ms": 374,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_09",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.67,
+    "Firestore_Sync_Latency_WiFi_ms": 208,
+    "Firestore_Sync_Latency_4G_LTE_ms": 398,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_10",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.81,
+    "Firestore_Sync_Latency_WiFi_ms": 234,
+    "Firestore_Sync_Latency_4G_LTE_ms": 347,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_11",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.66,
+    "Firestore_Sync_Latency_WiFi_ms": 201,
+    "Firestore_Sync_Latency_4G_LTE_ms": 408,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_12",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.58,
+    "Firestore_Sync_Latency_WiFi_ms": 194,
+    "Firestore_Sync_Latency_4G_LTE_ms": 375,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_13",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.67,
+    "Firestore_Sync_Latency_WiFi_ms": 198,
+    "Firestore_Sync_Latency_4G_LTE_ms": 359,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_14",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.94,
+    "Firestore_Sync_Latency_WiFi_ms": 207,
+    "Firestore_Sync_Latency_4G_LTE_ms": 408,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_15",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.74,
+    "Firestore_Sync_Latency_WiFi_ms": 187,
+    "Firestore_Sync_Latency_4G_LTE_ms": 419,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_16",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.89,
+    "Firestore_Sync_Latency_WiFi_ms": 233,
+    "Firestore_Sync_Latency_4G_LTE_ms": 414,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_17",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.9,
+    "Firestore_Sync_Latency_WiFi_ms": 193,
+    "Firestore_Sync_Latency_4G_LTE_ms": 378,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_18",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.56,
+    "Firestore_Sync_Latency_WiFi_ms": 205,
+    "Firestore_Sync_Latency_4G_LTE_ms": 344,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_19",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.65,
+    "Firestore_Sync_Latency_WiFi_ms": 234,
+    "Firestore_Sync_Latency_4G_LTE_ms": 361,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_20",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.87,
+    "Firestore_Sync_Latency_WiFi_ms": 207,
+    "Firestore_Sync_Latency_4G_LTE_ms": 373,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_21",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.96,
+    "Firestore_Sync_Latency_WiFi_ms": 234,
+    "Firestore_Sync_Latency_4G_LTE_ms": 384,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_22",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.83,
+    "Firestore_Sync_Latency_WiFi_ms": 192,
+    "Firestore_Sync_Latency_4G_LTE_ms": 363,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_23",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.96,
+    "Firestore_Sync_Latency_WiFi_ms": 213,
+    "Firestore_Sync_Latency_4G_LTE_ms": 383,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_24",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.85,
+    "Firestore_Sync_Latency_WiFi_ms": 187,
+    "Firestore_Sync_Latency_4G_LTE_ms": 386,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_25",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.72,
+    "Firestore_Sync_Latency_WiFi_ms": 227,
+    "Firestore_Sync_Latency_4G_LTE_ms": 352,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_26",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.96,
+    "Firestore_Sync_Latency_WiFi_ms": 189,
+    "Firestore_Sync_Latency_4G_LTE_ms": 354,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_27",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.77,
+    "Firestore_Sync_Latency_WiFi_ms": 218,
+    "Firestore_Sync_Latency_4G_LTE_ms": 358,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_28",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.51,
+    "Firestore_Sync_Latency_WiFi_ms": 229,
+    "Firestore_Sync_Latency_4G_LTE_ms": 359,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_29",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.77,
+    "Firestore_Sync_Latency_WiFi_ms": 215,
+    "Firestore_Sync_Latency_4G_LTE_ms": 373,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_30",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.76,
+    "Firestore_Sync_Latency_WiFi_ms": 211,
+    "Firestore_Sync_Latency_4G_LTE_ms": 414,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_31",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.56,
+    "Firestore_Sync_Latency_WiFi_ms": 220,
+    "Firestore_Sync_Latency_4G_LTE_ms": 359,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_32",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.66,
+    "Firestore_Sync_Latency_WiFi_ms": 218,
+    "Firestore_Sync_Latency_4G_LTE_ms": 363,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_33",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.62,
+    "Firestore_Sync_Latency_WiFi_ms": 222,
+    "Firestore_Sync_Latency_4G_LTE_ms": 345,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_34",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.69,
+    "Firestore_Sync_Latency_WiFi_ms": 234,
+    "Firestore_Sync_Latency_4G_LTE_ms": 419,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_35",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.49,
+    "Firestore_Sync_Latency_WiFi_ms": 195,
+    "Firestore_Sync_Latency_4G_LTE_ms": 361,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_36",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.94,
+    "Firestore_Sync_Latency_WiFi_ms": 229,
+    "Firestore_Sync_Latency_4G_LTE_ms": 410,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_37",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.65,
+    "Firestore_Sync_Latency_WiFi_ms": 192,
+    "Firestore_Sync_Latency_4G_LTE_ms": 406,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_38",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.82,
+    "Firestore_Sync_Latency_WiFi_ms": 215,
+    "Firestore_Sync_Latency_4G_LTE_ms": 418,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_39",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.8,
+    "Firestore_Sync_Latency_WiFi_ms": 185,
+    "Firestore_Sync_Latency_4G_LTE_ms": 405,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_40",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.61,
+    "Firestore_Sync_Latency_WiFi_ms": 218,
+    "Firestore_Sync_Latency_4G_LTE_ms": 415,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_41",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.52,
+    "Firestore_Sync_Latency_WiFi_ms": 190,
+    "Firestore_Sync_Latency_4G_LTE_ms": 348,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_42",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.74,
+    "Firestore_Sync_Latency_WiFi_ms": 198,
+    "Firestore_Sync_Latency_4G_LTE_ms": 388,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_43",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.83,
+    "Firestore_Sync_Latency_WiFi_ms": 195,
+    "Firestore_Sync_Latency_4G_LTE_ms": 390,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_44",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.59,
+    "Firestore_Sync_Latency_WiFi_ms": 209,
+    "Firestore_Sync_Latency_4G_LTE_ms": 412,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_45",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.9,
+    "Firestore_Sync_Latency_WiFi_ms": 189,
+    "Firestore_Sync_Latency_4G_LTE_ms": 373,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_46",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.6,
+    "Firestore_Sync_Latency_WiFi_ms": 185,
+    "Firestore_Sync_Latency_4G_LTE_ms": 401,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_47",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.79,
+    "Firestore_Sync_Latency_WiFi_ms": 198,
+    "Firestore_Sync_Latency_4G_LTE_ms": 399,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_48",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.74,
+    "Firestore_Sync_Latency_WiFi_ms": 206,
+    "Firestore_Sync_Latency_4G_LTE_ms": 340,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_49",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.49,
+    "Firestore_Sync_Latency_WiFi_ms": 229,
+    "Firestore_Sync_Latency_4G_LTE_ms": 412,
+    "Status": "SUCCESS"
+  },
+  {
+    "Test_Run_ID": "RUN_50",
+    "AI_Itinerary_Generation_Latency_Seconds": 1.89,
+    "Firestore_Sync_Latency_WiFi_ms": 260,
+    "Firestore_Sync_Latency_4G_LTE_ms": 379,
+    "Status": "SUCCESS"
+  }
+]

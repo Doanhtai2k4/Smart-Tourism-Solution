@@ -1,0 +1,653 @@
+[
+  {
+    "uid": "auth_uid_0001",
+    "email": "nguyenminhtri@example.com",
+    "name": "Nguyen Minh Tri",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=NguyenMinhTri",
+    "isAuthenticated": true,
+    "dateOfBirth": "1998-02-03",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Student",
+    "hobbies": [
+      "foodie",
+      "cooking"
+    ],
+    "favorites": [
+      "trip_0001",
+      "trip_0001",
+      "trip_0002"
+    ],
+    "phoneNumber": "+84904903402",
+    "bio": "Hi, I am Nguyen Minh Tri. I love exploring new destinations and local foods!",
+    "createdAt": "2026-03-26T12:22:15.972988Z"
+  },
+  {
+    "uid": "auth_uid_0002",
+    "email": "tranthihoa@example.com",
+    "name": "Tran Thi Hoa",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=TranThiHoa",
+    "isAuthenticated": true,
+    "dateOfBirth": "1983-07-15",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Software Engineer",
+    "hobbies": [
+      "swimming",
+      "sketching",
+      "reading"
+    ],
+    "favorites": [
+      "trip_0013",
+      "trip_0014"
+    ],
+    "phoneNumber": "+84903678638",
+    "bio": "Hi, I am Tran Thi Hoa. I love exploring new destinations and local foods!",
+    "createdAt": "2026-01-03T12:22:15.973048Z"
+  },
+  {
+    "uid": "auth_uid_0003",
+    "email": "lehoangnam@example.com",
+    "name": "Le Hoang Nam",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=LeHoangNam",
+    "isAuthenticated": true,
+    "dateOfBirth": "2002-02-17",
+    "gender": "Female",
+    "country": "Viet Nam",
+    "occupation": "Marketing Specialist",
+    "hobbies": [
+      "foodie",
+      "music"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84906770619",
+    "bio": "Hi, I am Le Hoang Nam. I love exploring new destinations and local foods!",
+    "createdAt": "2026-02-25T12:22:15.973074Z"
+  },
+  {
+    "uid": "auth_uid_0004",
+    "email": "sarahconnor@example.com",
+    "name": "Sarah Connor",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=SarahConnor",
+    "isAuthenticated": true,
+    "dateOfBirth": "1989-04-08",
+    "gender": "Female",
+    "country": "South Korea",
+    "occupation": "Teacher",
+    "hobbies": [
+      "cooking",
+      "reading"
+    ],
+    "favorites": [
+      "trip_0010",
+      "trip_0004"
+    ],
+    "phoneNumber": "+84902166941",
+    "bio": "Hi, I am Sarah Connor. I love exploring new destinations and local foods!",
+    "createdAt": "2026-02-15T12:22:15.973092Z"
+  },
+  {
+    "uid": "auth_uid_0005",
+    "email": "hoangductrung@example.com",
+    "name": "Hoang Duc Trung",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=HoangDucTrung",
+    "isAuthenticated": true,
+    "dateOfBirth": "1982-01-15",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Business Analyst",
+    "hobbies": [
+      "foodie",
+      "music"
+    ],
+    "favorites": [
+      "trip_0008",
+      "trip_0011"
+    ],
+    "phoneNumber": "+84907120868",
+    "bio": "Hi, I am Hoang Duc Trung. I love exploring new destinations and local foods!",
+    "createdAt": "2026-05-02T12:22:15.973110Z"
+  },
+  {
+    "uid": "auth_uid_0006",
+    "email": "phanthanhthao@example.com",
+    "name": "Phan Thanh Thao",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=PhanThanhThao",
+    "isAuthenticated": true,
+    "dateOfBirth": "1999-06-30",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Graphic Designer",
+    "hobbies": [
+      "foodie",
+      "hiking",
+      "reading",
+      "gaming"
+    ],
+    "favorites": [
+      "trip_0003"
+    ],
+    "phoneNumber": "+84907366205",
+    "bio": "Hi, I am Phan Thanh Thao. I love exploring new destinations and local foods!",
+    "createdAt": "2026-03-15T12:22:15.973127Z"
+  },
+  {
+    "uid": "auth_uid_0007",
+    "email": "min-jikim@example.com",
+    "name": "Min-ji Kim",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=Min-jiKim",
+    "isAuthenticated": true,
+    "dateOfBirth": "1998-06-23",
+    "gender": "Female",
+    "country": "Australia",
+    "occupation": "Software Engineer",
+    "hobbies": [
+      "swimming",
+      "photography"
+    ],
+    "favorites": [
+      "trip_0007",
+      "trip_0005"
+    ],
+    "phoneNumber": "+84904539704",
+    "bio": "Hi, I am Min-ji Kim. I love exploring new destinations and local foods!",
+    "createdAt": "2026-02-28T12:22:15.973146Z"
+  },
+  {
+    "uid": "auth_uid_0008",
+    "email": "dangminhthu@example.com",
+    "name": "Dang Minh Thu",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=DangMinhThu",
+    "isAuthenticated": true,
+    "dateOfBirth": "1990-11-20",
+    "gender": "Female",
+    "country": "Viet Nam",
+    "occupation": "Doctor",
+    "hobbies": [
+      "hiking",
+      "reading",
+      "foodie"
+    ],
+    "favorites": [
+      "trip_0012"
+    ],
+    "phoneNumber": "+84905408072",
+    "bio": "Hi, I am Dang Minh Thu. I love exploring new destinations and local foods!",
+    "createdAt": "2025-12-09T12:22:15.973162Z"
+  },
+  {
+    "uid": "auth_uid_0009",
+    "email": "pierrebernard@example.com",
+    "name": "Pierre Bernard",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=PierreBernard",
+    "isAuthenticated": true,
+    "dateOfBirth": "1995-02-17",
+    "gender": "Female",
+    "country": "South Korea",
+    "occupation": "Student",
+    "hobbies": [
+      "sketching",
+      "foodie",
+      "music",
+      "photography"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84903684052",
+    "bio": "Hi, I am Pierre Bernard. I love exploring new destinations and local foods!",
+    "createdAt": "2026-04-17T12:22:15.973179Z"
+  },
+  {
+    "uid": "auth_uid_0010",
+    "email": "dokhanhlinh@example.com",
+    "name": "Do Khanh Linh",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=DoKhanhLinh",
+    "isAuthenticated": true,
+    "dateOfBirth": "1993-11-26",
+    "gender": "Female",
+    "country": "Viet Nam",
+    "occupation": "Teacher",
+    "hobbies": [
+      "cooking",
+      "reading",
+      "sketching"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84902921859",
+    "bio": "Hi, I am Do Khanh Linh. I love exploring new destinations and local foods!",
+    "createdAt": "2025-12-21T12:22:15.973193Z"
+  },
+  {
+    "uid": "auth_uid_0011",
+    "email": "ngohuuphuoc@example.com",
+    "name": "Ngo Huu Phuoc",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=NgoHuuPhuoc",
+    "isAuthenticated": true,
+    "dateOfBirth": "1996-04-12",
+    "gender": "Female",
+    "country": "Viet Nam",
+    "occupation": "Student",
+    "hobbies": [
+      "hiking",
+      "sketching",
+      "photography"
+    ],
+    "favorites": [
+      "trip_0009",
+      "trip_0013"
+    ],
+    "phoneNumber": "+84909517485",
+    "bio": "Hi, I am Ngo Huu Phuoc. I love exploring new destinations and local foods!",
+    "createdAt": "2026-03-08T12:22:15.973207Z"
+  },
+  {
+    "uid": "auth_uid_0012",
+    "email": "emilyjohnson@example.com",
+    "name": "Emily Johnson",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=EmilyJohnson",
+    "isAuthenticated": true,
+    "dateOfBirth": "1979-07-21",
+    "gender": "Male",
+    "country": "Japan",
+    "occupation": "Doctor",
+    "hobbies": [
+      "swimming",
+      "hiking",
+      "sketching",
+      "foodie"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84906438436",
+    "bio": "Hi, I am Emily Johnson. I love exploring new destinations and local foods!",
+    "createdAt": "2026-01-13T12:22:15.973222Z"
+  },
+  {
+    "uid": "auth_uid_0013",
+    "email": "lyminhtriet@example.com",
+    "name": "Ly Minh Triet",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=LyMinhTriet",
+    "isAuthenticated": true,
+    "dateOfBirth": "1976-12-10",
+    "gender": "Female",
+    "country": "Viet Nam",
+    "occupation": "Software Engineer",
+    "hobbies": [
+      "photography",
+      "swimming"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84909153566",
+    "bio": "Hi, I am Ly Minh Triet. I love exploring new destinations and local foods!",
+    "createdAt": "2026-03-05T12:22:15.973237Z"
+  },
+  {
+    "uid": "auth_uid_0014",
+    "email": "sarahconnor@example.com",
+    "name": "Sarah Connor",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=SarahConnor",
+    "isAuthenticated": true,
+    "dateOfBirth": "1982-04-09",
+    "gender": "Male",
+    "country": "Australia",
+    "occupation": "Business Analyst",
+    "hobbies": [
+      "sketching",
+      "hiking",
+      "cooking",
+      "reading"
+    ],
+    "favorites": [
+      "trip_0004",
+      "trip_0015",
+      "trip_0009"
+    ],
+    "phoneNumber": "+84904374754",
+    "bio": "Hi, I am Sarah Connor. I love exploring new destinations and local foods!",
+    "createdAt": "2026-04-20T12:22:15.973252Z"
+  },
+  {
+    "uid": "auth_uid_0015",
+    "email": "tranvancuong@example.com",
+    "name": "Tran Van Cuong",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=TranVanCuong",
+    "isAuthenticated": true,
+    "dateOfBirth": "1984-07-14",
+    "gender": "Female",
+    "country": "Viet Nam",
+    "occupation": "Software Engineer",
+    "hobbies": [
+      "cooking",
+      "sketching",
+      "photography"
+    ],
+    "favorites": [
+      "trip_0004"
+    ],
+    "phoneNumber": "+84906672134",
+    "bio": "Hi, I am Tran Van Cuong. I love exploring new destinations and local foods!",
+    "createdAt": "2026-02-16T12:22:15.973271Z"
+  },
+  {
+    "uid": "auth_uid_0016",
+    "email": "nguyenthihuong@example.com",
+    "name": "Nguyen Thi Huong",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=NguyenThiHuong",
+    "isAuthenticated": true,
+    "dateOfBirth": "1998-08-11",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Software Engineer",
+    "hobbies": [
+      "foodie",
+      "photography"
+    ],
+    "favorites": [
+      "trip_0002"
+    ],
+    "phoneNumber": "+84906543670",
+    "bio": "Hi, I am Nguyen Thi Huong. I love exploring new destinations and local foods!",
+    "createdAt": "2026-03-27T12:22:15.973286Z"
+  },
+  {
+    "uid": "auth_uid_0017",
+    "email": "phamvanson@example.com",
+    "name": "Pham Van Son",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=PhamVanSon",
+    "isAuthenticated": true,
+    "dateOfBirth": "1997-07-01",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Business Analyst",
+    "hobbies": [
+      "cooking",
+      "hiking"
+    ],
+    "favorites": [
+      "trip_0004",
+      "trip_0013",
+      "trip_0008"
+    ],
+    "phoneNumber": "+84907829332",
+    "bio": "Hi, I am Pham Van Son. I love exploring new destinations and local foods!",
+    "createdAt": "2026-01-18T12:22:15.973300Z"
+  },
+  {
+    "uid": "auth_uid_0018",
+    "email": "buihonghanh@example.com",
+    "name": "Bui Hong Hanh",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=BuiHongHanh",
+    "isAuthenticated": true,
+    "dateOfBirth": "1984-11-03",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Teacher",
+    "hobbies": [
+      "music",
+      "sketching",
+      "cooking"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84902651177",
+    "bio": "Hi, I am Bui Hong Hanh. I love exploring new destinations and local foods!",
+    "createdAt": "2026-02-21T12:22:15.973315Z"
+  },
+  {
+    "uid": "auth_uid_0019",
+    "email": "vuviettuan@example.com",
+    "name": "Vu Viet Tuan",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=VuVietTuan",
+    "isAuthenticated": true,
+    "dateOfBirth": "1996-04-14",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Student",
+    "hobbies": [
+      "swimming",
+      "sketching"
+    ],
+    "favorites": [
+      "trip_0007"
+    ],
+    "phoneNumber": "+84905673212",
+    "bio": "Hi, I am Vu Viet Tuan. I love exploring new destinations and local foods!",
+    "createdAt": "2026-03-20T12:22:15.973330Z"
+  },
+  {
+    "uid": "auth_uid_0020",
+    "email": "lemyduyen@example.com",
+    "name": "Le My Duyen",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=LeMyDuyen",
+    "isAuthenticated": true,
+    "dateOfBirth": "1977-05-06",
+    "gender": "Female",
+    "country": "Viet Nam",
+    "occupation": "Software Engineer",
+    "hobbies": [
+      "foodie",
+      "photography",
+      "gaming",
+      "reading"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84904965789",
+    "bio": "Hi, I am Le My Duyen. I love exploring new destinations and local foods!",
+    "createdAt": "2026-01-29T12:22:15.973343Z"
+  },
+  {
+    "uid": "auth_uid_0021",
+    "email": "nguyenminhtri@example.com",
+    "name": "Nguyen Minh Tri",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=NguyenMinhTri",
+    "isAuthenticated": true,
+    "dateOfBirth": "1991-02-21",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Graphic Designer",
+    "hobbies": [
+      "hiking",
+      "music"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84905449368",
+    "bio": "Hi, I am Nguyen Minh Tri. I love exploring new destinations and local foods!",
+    "createdAt": "2026-02-09T12:22:15.973357Z"
+  },
+  {
+    "uid": "auth_uid_0022",
+    "email": "tranthihoa@example.com",
+    "name": "Tran Thi Hoa",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=TranThiHoa",
+    "isAuthenticated": true,
+    "dateOfBirth": "1983-09-01",
+    "gender": "Female",
+    "country": "Viet Nam",
+    "occupation": "Doctor",
+    "hobbies": [
+      "sketching",
+      "hiking",
+      "foodie",
+      "cooking"
+    ],
+    "favorites": [
+      "trip_0001"
+    ],
+    "phoneNumber": "+84902022698",
+    "bio": "Hi, I am Tran Thi Hoa. I love exploring new destinations and local foods!",
+    "createdAt": "2025-12-04T12:22:15.973370Z"
+  },
+  {
+    "uid": "auth_uid_0023",
+    "email": "lehoangnam@example.com",
+    "name": "Le Hoang Nam",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=LeHoangNam",
+    "isAuthenticated": true,
+    "dateOfBirth": "1987-10-10",
+    "gender": "Female",
+    "country": "Viet Nam",
+    "occupation": "Doctor",
+    "hobbies": [
+      "hiking",
+      "photography",
+      "reading",
+      "sketching"
+    ],
+    "favorites": [
+      "trip_0002"
+    ],
+    "phoneNumber": "+84902140194",
+    "bio": "Hi, I am Le Hoang Nam. I love exploring new destinations and local foods!",
+    "createdAt": "2026-01-14T12:22:15.973388Z"
+  },
+  {
+    "uid": "auth_uid_0024",
+    "email": "phamngoclan@example.com",
+    "name": "Pham Ngoc Lan",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=PhamNgocLan",
+    "isAuthenticated": true,
+    "dateOfBirth": "1975-08-27",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Student",
+    "hobbies": [
+      "photography",
+      "foodie",
+      "swimming",
+      "gaming"
+    ],
+    "favorites": [
+      "trip_0015",
+      "trip_0005"
+    ],
+    "phoneNumber": "+84906271130",
+    "bio": "Hi, I am Pham Ngoc Lan. I love exploring new destinations and local foods!",
+    "createdAt": "2026-03-20T12:22:15.973403Z"
+  },
+  {
+    "uid": "auth_uid_0025",
+    "email": "hoangductrung@example.com",
+    "name": "Hoang Duc Trung",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=HoangDucTrung",
+    "isAuthenticated": true,
+    "dateOfBirth": "2001-06-29",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Software Engineer",
+    "hobbies": [
+      "sketching",
+      "gaming",
+      "music"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84908688755",
+    "bio": "Hi, I am Hoang Duc Trung. I love exploring new destinations and local foods!",
+    "createdAt": "2025-12-08T12:22:15.973420Z"
+  },
+  {
+    "uid": "auth_uid_0026",
+    "email": "phanthanhthao@example.com",
+    "name": "Phan Thanh Thao",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=PhanThanhThao",
+    "isAuthenticated": true,
+    "dateOfBirth": "1999-09-22",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Marketing Specialist",
+    "hobbies": [
+      "gaming",
+      "foodie"
+    ],
+    "favorites": [
+      "trip_0006"
+    ],
+    "phoneNumber": "+84903646552",
+    "bio": "Hi, I am Phan Thanh Thao. I love exploring new destinations and local foods!",
+    "createdAt": "2026-03-16T12:22:15.973433Z"
+  },
+  {
+    "uid": "auth_uid_0027",
+    "email": "min-jikim@example.com",
+    "name": "Min-ji Kim",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=Min-jiKim",
+    "isAuthenticated": true,
+    "dateOfBirth": "1986-07-12",
+    "gender": "Female",
+    "country": "Japan",
+    "occupation": "Student",
+    "hobbies": [
+      "cooking",
+      "reading"
+    ],
+    "favorites": [],
+    "phoneNumber": "+84905437001",
+    "bio": "Hi, I am Min-ji Kim. I love exploring new destinations and local foods!",
+    "createdAt": "2026-01-07T12:22:15.973448Z"
+  },
+  {
+    "uid": "auth_uid_0028",
+    "email": "ji-woopark@example.com",
+    "name": "Ji-woo Park",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ji-wooPark",
+    "isAuthenticated": true,
+    "dateOfBirth": "2002-01-19",
+    "gender": "Male",
+    "country": "Australia",
+    "occupation": "Marketing Specialist",
+    "hobbies": [
+      "swimming",
+      "gaming",
+      "foodie",
+      "sketching"
+    ],
+    "favorites": [
+      "trip_0009",
+      "trip_0008"
+    ],
+    "phoneNumber": "+84901852264",
+    "bio": "Hi, I am Ji-woo Park. I love exploring new destinations and local foods!",
+    "createdAt": "2026-03-11T12:22:15.973462Z"
+  },
+  {
+    "uid": "auth_uid_0029",
+    "email": "buixuanan@example.com",
+    "name": "Bui Xuan An",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=BuiXuanAn",
+    "isAuthenticated": true,
+    "dateOfBirth": "1980-01-23",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Graphic Designer",
+    "hobbies": [
+      "gaming",
+      "hiking"
+    ],
+    "favorites": [
+      "trip_0003",
+      "trip_0012"
+    ],
+    "phoneNumber": "+84908175395",
+    "bio": "Hi, I am Bui Xuan An. I love exploring new destinations and local foods!",
+    "createdAt": "2026-05-11T12:22:15.973478Z"
+  },
+  {
+    "uid": "auth_uid_0030",
+    "email": "dokhanhlinh@example.com",
+    "name": "Do Khanh Linh",
+    "profilePic": "https://api.dicebear.com/7.x/adventurer/svg?seed=DoKhanhLinh",
+    "isAuthenticated": true,
+    "dateOfBirth": "1975-06-26",
+    "gender": "Male",
+    "country": "Viet Nam",
+    "occupation": "Student",
+    "hobbies": [
+      "photography",
+      "gaming",
+      "reading",
+      "music"
+    ],
+    "favorites": [
+      "trip_0007"
+    ],
+    "phoneNumber": "+84901701771",
+    "bio": "Hi, I am Do Khanh Linh. I love exploring new destinations and local foods!",
+    "createdAt": "2026-04-14T12:22:15.973492Z"
+  }
+]

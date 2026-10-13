@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+serviceAccountKey.json
+logs/
+venv/
+uploads/
+two_tower_model_backups/
